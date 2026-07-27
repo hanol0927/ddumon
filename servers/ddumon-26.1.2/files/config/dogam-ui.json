@@ -1,0 +1,206 @@
+{
+  "general": {
+    "forcedGuiScale": 2,
+    "textShadow": false,
+    "openAnimationMs": 240,
+    "openStartScale": 0.86,
+    "autoFit": false,
+    "referenceWidth": 960.0,
+    "referenceHeight": 540.0
+  },
+  "book": {
+    "width": 900.0,
+    "screenMargin": 96.0,
+    "screenMarginY": 64.0,
+    "offsetX": 0.0,
+    "offsetY": 0.0,
+    "pageLeftX0": 0.085,
+    "pageLeftX1": 0.455,
+    "pageRightX0": 0.545,
+    "pageRightX1": 0.915,
+    "pageY0": 0.085,
+    "pageY1": 0.905
+  },
+  "poster": {
+    "columns": 2,
+    "rows": 2,
+    "scale": 1.0,
+    "offsetX": 0.0,
+    "offsetY": 0.0,
+    "paddingX": 6.0,
+    "paddingY": 6.0,
+    "hoverScale": 1.06,
+    "icon": {
+      "size": 0.3,
+      "offsetX": 0.0,
+      "offsetY": -0.05,
+      "entity3d": true,
+      "entityScale": 1.0,
+      "entityPadding": 1.6,
+      "entityYaw": -28.0,
+      "entityPitch": -8.0,
+      "entitySpin": 0.0
+    },
+    "name": {
+      "scale": 1.5,
+      "offsetX": 0.0,
+      "offsetY": 0.15,
+      "color": "3B2A16"
+    },
+    "progress": {
+      "scale": 1.5,
+      "offsetX": 0.0,
+      "offsetY": 0.29,
+      "color": "6B4A22"
+    },
+    "progressCompletedColor": "1F5C24"
+  },
+  "rank": {
+    "width": 75.0,
+    "offsetX": 75.0,
+    "offsetY": -85.0,
+    "anchorInset": 0.35,
+    "hoverScale": 1.08,
+    "liftMs": 300,
+    "pauseMs": 90,
+    "dropMs": 460,
+    "travel": 1.15,
+    "dropBounce": 1.6,
+    "label": {
+      "scale": 0.0,
+      "offsetX": 0.0,
+      "offsetY": 3.0,
+      "color": "FFF4D6"
+    },
+    "counter": {
+      "scale": 0.0,
+      "offsetX": 0.0,
+      "offsetY": 13.0,
+      "color": "FFD98A"
+    }
+  },
+  "arrow": {
+    "widthRatio": 0.4,
+    "offsetX": 0.0,
+    "offsetY": 0.0,
+    "hoverScale": 1.12,
+    "disabledAlpha": 0.45
+  },
+  "labels": {
+    "title": {
+      "scale": 3.0,
+      "offsetX": 0.0,
+      "offsetY": -16.0,
+      "color": "FFF4D6"
+    },
+    "totalProgress": {
+      "scale": 1.8,
+      "offsetX": 0.0,
+      "offsetY": 6.0,
+      "color": "FFF4D6"
+    },
+    "forceHint": {
+      "scale": 0.8,
+      "offsetX": 0.0,
+      "offsetY": 6.0,
+      "color": "FFD98A"
+    },
+    "forceHintPush": 12.0,
+    "pageIndicator": {
+      "scale": 0.0,
+      "offsetX": 0.0,
+      "offsetY": -4.0,
+      "color": "4A3520"
+    }
+  },
+  "roulette": {
+    "posterWidth": 150.0,
+    "spacing": 10.0,
+    "offsetX": 0.0,
+    "offsetY": 0.0,
+    "landPop": 0.12,
+    "bandAlpha": 0.45,
+    "bandHeight": 0.85,
+    "tickSound": true,
+    "icon": {
+      "size": 0.4,
+      "offsetX": 0.0,
+      "offsetY": -0.04,
+      "entity3d": true,
+      "entityScale": 0.75,
+      "entityPadding": 1.6,
+      "entityYaw": -28.0,
+      "entityPitch": -8.0,
+      "entitySpin": 0.0
+    },
+    "name": {
+      "scale": 1.5,
+      "offsetX": 0.0,
+      "offsetY": 0.18,
+      "color": "3B2A16"
+    },
+    "title": {
+      "scale": 1.5,
+      "offsetX": 0.0,
+      "offsetY": -14.0,
+      "color": "FFE9A8"
+    },
+    "result": {
+      "scale": 1.0,
+      "offsetX": 0.0,
+      "offsetY": 6.0,
+      "color": "FFFFFF"
+    }
+  },
+  "alarm": {
+    "width": 200.0,
+    "x": 6.0,
+    "centerVertically": true,
+    "y": 0.0,
+    "slideMs": 260,
+    "rankSize": 0.8,
+    "rankOffsetX": 0.1,
+    "rankOffsetY": 0.12,
+    "icon": {
+      "size": 0.25,
+      "offsetX": 0.48,
+      "offsetY": 0.42,
+      "entity3d": true,
+      "entityScale": 1.0,
+      "entityPadding": 1.6,
+      "entityYaw": -28.0,
+      "entityPitch": -8.0,
+      "entitySpin": 0.0
+    },
+    "name": {
+      "scale": 2.0,
+      "offsetX": 0.5,
+      "offsetY": 0.66,
+      "color": "3B2A16"
+    },
+    "title": {
+      "scale": 1.5,
+      "offsetX": 0.5,
+      "offsetY": 0.9,
+      "color": "4A3520"
+    }
+  },
+  "fever": {
+    "width": 150.0,
+    "x": 6.0,
+    "y": 6.0,
+    "pulse": true,
+    "time": {
+      "scale": 3.9,
+      "offsetX": 0.5,
+      "offsetY": 0.48,
+      "color": "8B2E1F"
+    },
+    "title": {
+      "scale": 1.2,
+      "offsetX": 0.5,
+      "offsetY": 0.9,
+      "color": "4A3520"
+    }
+  }
+}

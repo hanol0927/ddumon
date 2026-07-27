@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/TestRoot4/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "뚜몬서버",
+    "description": "뚜몬서버",
+    "icon": "https://hanol0927.github.io/ddumon/servers/ddumon-26.1.2/Icon.png",
+    "address": "182.216.39.35:20007",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.19.3"
+  },
+  "untrackedFiles": []
+}

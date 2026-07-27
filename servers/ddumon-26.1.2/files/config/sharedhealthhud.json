@@ -1,0 +1,11 @@
+{
+  "posX": 9,
+  "posY": 170,
+  "scaleX": 0.8838045,
+  "scaleY": 1.0655174,
+  "show": true,
+  "entrySpacing": 4,
+  "headRotationDegPerSec": 35.0,
+  "shakeIntensity": 1.5,
+  "damageFlashDurationMs": 600
+}
