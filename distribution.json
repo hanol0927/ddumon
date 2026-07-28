@@ -552,17 +552,6 @@
           }
         },
         {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 4444,
-            "url": "https://hanol0927.github.io/ddumon/servers/ddumon-26.1.2/files/config/fancymenu/options.txt",
-            "MD5": "3705098e831077cf0fc940481f3dbc18",
-            "path": "config/fancymenu/options.txt"
-          }
-        },
-        {
           "id": "cherry_blossom.json",
           "name": "cherry_blossom.json",
           "type": "File",
@@ -717,17 +706,6 @@
           }
         },
         {
-          "id": "iris.properties",
-          "name": "iris.properties",
-          "type": "File",
-          "artifact": {
-            "size": 323,
-            "url": "https://hanol0927.github.io/ddumon/servers/ddumon-26.1.2/files/config/iris.properties",
-            "MD5": "b41d36e52c8c54388cfb1cf01bd0ea5d",
-            "path": "config/iris.properties"
-          }
-        },
-        {
           "id": "koreanpatch.json5",
           "name": "koreanpatch.json5",
           "type": "File",
@@ -769,83 +747,6 @@
             "url": "https://hanol0927.github.io/ddumon/servers/ddumon-26.1.2/files/config/MouseTweaks.cfg",
             "MD5": "ff577ca09e989c07c056c7cdff465be3",
             "path": "config/MouseTweaks.cfg"
-          }
-        },
-        {
-          "id": "sharedhealthhud.json",
-          "name": "sharedhealthhud.json",
-          "type": "File",
-          "artifact": {
-            "size": 203,
-            "url": "https://hanol0927.github.io/ddumon/servers/ddumon-26.1.2/files/config/sharedhealthhud.json",
-            "MD5": "f324503546b48a2d132ae8babaf5978a",
-            "path": "config/sharedhealthhud.json"
-          }
-        },
-        {
-          "id": "sodium-extra-options.json",
-          "name": "sodium-extra-options.json",
-          "type": "File",
-          "artifact": {
-            "size": 2110,
-            "url": "https://hanol0927.github.io/ddumon/servers/ddumon-26.1.2/files/config/sodium-extra-options.json",
-            "MD5": "e42d68e643e0bb64246dd7f98c21e478",
-            "path": "config/sodium-extra-options.json"
-          }
-        },
-        {
-          "id": "sodium-extra.properties",
-          "name": "sodium-extra.properties",
-          "type": "File",
-          "artifact": {
-            "size": 360,
-            "url": "https://hanol0927.github.io/ddumon/servers/ddumon-26.1.2/files/config/sodium-extra.properties",
-            "MD5": "72b9d6dd6ada7b00ef334ee176054dbf",
-            "path": "config/sodium-extra.properties"
-          }
-        },
-        {
-          "id": "sodium-fingerprint.json",
-          "name": "sodium-fingerprint.json",
-          "type": "File",
-          "artifact": {
-            "size": 427,
-            "url": "https://hanol0927.github.io/ddumon/servers/ddumon-26.1.2/files/config/sodium-fingerprint.json",
-            "MD5": "ec6c54c087b41896abd58074573ac8c8",
-            "path": "config/sodium-fingerprint.json"
-          }
-        },
-        {
-          "id": "sodium-mixins.properties",
-          "name": "sodium-mixins.properties",
-          "type": "File",
-          "artifact": {
-            "size": 258,
-            "url": "https://hanol0927.github.io/ddumon/servers/ddumon-26.1.2/files/config/sodium-mixins.properties",
-            "MD5": "a5b6a84e034d60be869ae33f2dba4e2b",
-            "path": "config/sodium-mixins.properties"
-          }
-        },
-        {
-          "id": "sodium-options.json",
-          "name": "sodium-options.json",
-          "type": "File",
-          "artifact": {
-            "size": 817,
-            "url": "https://hanol0927.github.io/ddumon/servers/ddumon-26.1.2/files/config/sodium-options.json",
-            "MD5": "a1d0af399eb331838dab277f8a499e66",
-            "path": "config/sodium-options.json"
-          }
-        },
-        {
-          "id": "occlusion.properties",
-          "name": "occlusion.properties",
-          "type": "File",
-          "artifact": {
-            "size": 4831,
-            "url": "https://hanol0927.github.io/ddumon/servers/ddumon-26.1.2/files/config/sound_physics_remastered/occlusion.properties",
-            "MD5": "65630e0f012205fc8b074e2f90ff89c2",
-            "path": "config/sound_physics_remastered/occlusion.properties"
           }
         },
         {
