@@ -344,7 +344,7 @@ layout_action_executable_blocks {
 
 element {
   button_element_executable_block_identifier = a0039114-4f36-4e05-af80-f59afe638cd3-1785045629004
-  [executable_action_instance:e4d2dcff-2778-442d-a358-2a490f7ed262-1785045908886][action_type:joinserver] = 182.216.39.35:20007
+  [executable_action_instance:e4d2dcff-2778-442d-a358-2a490f7ed262-1785045908886][action_type:joinserver] = private-scn-sev83.scn.pw:1783
   [executable_block:a0039114-4f36-4e05-af80-f59afe638cd3-1785045629004][type:generic] = [executables:e4d2dcff-2778-442d-a358-2a490f7ed262-1785045908886;]
   backgroundnormal = [source:local]/config/fancymenu/assets/start.png
   backgroundhovered = [source:local]/config/fancymenu/assets/start.png
