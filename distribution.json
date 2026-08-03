@@ -21,7 +21,7 @@
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": true,
-      "autoconnect": false,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.19.3",
@@ -266,26 +266,6 @@
           }
         },
         {
-          "id": "su.plo.voice:plasmovoice:2.1.13@jar",
-          "name": "Plasmo Voice",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 12205387,
-            "url": "https://hanol0927.github.io/ddumon/servers/ddumon-26.1.2/fabricmods/required/plasmovoice-fabric-26.1-2.1.13.jar",
-            "MD5": "acd0042cd7c1d03b29af38cf62405d5d"
-          }
-        },
-        {
-          "id": "me.zipestudio.talkingheads.entrypoint:talkingheads:1.1.3+26.1+fabric@jar",
-          "name": "Talking Heads",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 291368,
-            "url": "https://hanol0927.github.io/ddumon/servers/ddumon-26.1.2/fabricmods/required/talking-heads-1.1.3+26.1+fabric.jar",
-            "MD5": "deb884182ea33674f8124c71dd9ecd9f"
-          }
-        },
-        {
           "id": "org.embeddedt:modernfix:5.27.19-build.1@jar",
           "name": "ModernFix",
           "type": "FabricMod",
@@ -323,6 +303,16 @@
             "size": 254376,
             "url": "https://hanol0927.github.io/ddumon/servers/ddumon-26.1.2/fabricmods/required/placeholder-api-3.0.0+26.1.jar",
             "MD5": "28349f7d56cfd8ee62e89a682fdd40c6"
+          }
+        },
+        {
+          "id": "su.plo.voice:plasmovoice:2.1.13@jar",
+          "name": "Plasmo Voice",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 12205387,
+            "url": "https://hanol0927.github.io/ddumon/servers/ddumon-26.1.2/fabricmods/required/plasmovoice-fabric-26.1-2.1.13.jar",
+            "MD5": "acd0042cd7c1d03b29af38cf62405d5d"
           }
         },
         {
@@ -383,6 +373,26 @@
             "size": 10208,
             "url": "https://hanol0927.github.io/ddumon/servers/ddumon-26.1.2/fabricmods/required/tabnametag-fabric-0.2.0+mc26.1.jar",
             "MD5": "d9aec9cff84503cb290e4063a73e0580"
+          }
+        },
+        {
+          "id": "me.zipestudio.talkingheads.entrypoint:talkingheads:1.1.3+26.1+fabric@jar",
+          "name": "Talking Heads",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 291368,
+            "url": "https://hanol0927.github.io/ddumon/servers/ddumon-26.1.2/fabricmods/required/talking-heads-1.1.3+26.1+fabric.jar",
+            "MD5": "deb884182ea33674f8124c71dd9ecd9f"
+          }
+        },
+        {
+          "id": "xaero.minimap:xaerominimap:26.4.2@jar",
+          "name": "Xaero's Minimap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2216030,
+            "url": "https://hanol0927.github.io/ddumon/servers/ddumon-26.1.2/fabricmods/required/xaerominimap-fabric-26.1.2-26.4.2.jar",
+            "MD5": "ba50337233e58cabba51c97440a0b895"
           }
         },
         {
@@ -716,6 +726,17 @@
           }
         },
         {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 323,
+            "url": "https://hanol0927.github.io/ddumon/servers/ddumon-26.1.2/files/config/iris.properties",
+            "MD5": "b41d36e52c8c54388cfb1cf01bd0ea5d",
+            "path": "config/iris.properties"
+          }
+        },
+        {
           "id": "koreanpatch.json5",
           "name": "koreanpatch.json5",
           "type": "File",
@@ -1043,6 +1064,17 @@
             "url": "https://hanol0927.github.io/ddumon/servers/ddumon-26.1.2/files/fancymenu_data/last_world.fmdata",
             "MD5": "f77cde63d9cf2c3ec8273b4527401df2",
             "path": "fancymenu_data/last_world.fmdata"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 7068,
+            "url": "https://hanol0927.github.io/ddumon/servers/ddumon-26.1.2/files/options.txt",
+            "MD5": "a88522ac781474abe1c171eb16d76837",
+            "path": "options.txt"
           }
         },
         {
