@@ -236,16 +236,6 @@
           }
         },
         {
-          "id": "journeymap:journeymap:26.1.2-6.0.1@jar",
-          "name": "Journeymap",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 4205992,
-            "url": "https://hanol0927.github.io/ddumon/servers/ddumon-26.1.2/fabricmods/required/journeymap-fabric-26.1.2-6.0.1.jar",
-            "MD5": "f7f435a67239f2af1f2c655eff43d73e"
-          }
-        },
-        {
           "id": "de.keksuccino:konkrete:1.10.2@jar",
           "name": "Konkrete",
           "type": "FabricMod",
