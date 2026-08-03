@@ -715,28 +715,6 @@
           }
         },
         {
-          "id": "iris-excluded.json",
-          "name": "iris-excluded.json",
-          "type": "File",
-          "artifact": {
-            "size": 31,
-            "url": "https://hanol0927.github.io/ddumon/servers/ddumon-26.1.2/files/config/iris-excluded.json",
-            "MD5": "670592b1394f12ab96d8432f14ac8dd9",
-            "path": "config/iris-excluded.json"
-          }
-        },
-        {
-          "id": "iris.properties",
-          "name": "iris.properties",
-          "type": "File",
-          "artifact": {
-            "size": 323,
-            "url": "https://hanol0927.github.io/ddumon/servers/ddumon-26.1.2/files/config/iris.properties",
-            "MD5": "b41d36e52c8c54388cfb1cf01bd0ea5d",
-            "path": "config/iris.properties"
-          }
-        },
-        {
           "id": "koreanpatch.json5",
           "name": "koreanpatch.json5",
           "type": "File",
