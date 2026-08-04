@@ -1045,17 +1045,6 @@
           }
         },
         {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 7068,
-            "url": "https://hanol0927.github.io/ddumon/servers/ddumon-26.1.2/files/options.txt",
-            "MD5": "a88522ac781474abe1c171eb16d76837",
-            "path": "options.txt"
-          }
-        },
-        {
           "id": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
           "name": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
           "type": "File",
