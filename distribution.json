@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -1126,13 +1126,13 @@
     },
     {
       "id": "Chaenna-1.21.4",
-      "name": "Chaenna",
+      "name": "경도 시즌2: 13일의 금요일 밤",
       "description": "",
-      "icon": "",
-      "version": "1.0.0",
-      "address": "",
+      "icon": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/icon.png",
+      "version": "1.0.1",
+      "address": "182.216.39.35:20015",
       "minecraftVersion": "1.21.4",
-      "autoconnect": false,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.neoforged:neoforge:21.4.157:universal",
@@ -1674,8 +1674,250 @@
               }
             }
           ]
+        },
+        {
+          "id": "generated.forgemod:hanpolicemod-1.0.jar:1.0.0@jar",
+          "name": "hanpolicemod-1.0.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 2220403,
+            "MD5": "8543d53615a7a2ea1c8291056e5fc234",
+            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/hanpolicemod-1.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:fancymenu_neoforge_3.7.1_mc_1.21.4.jar:1.0.0@jar",
+          "name": "fancymenu_neoforge_3.7.1_MC_1.21.4.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 3437861,
+            "MD5": "01fa1e5983b3dd53bc16a70243236010",
+            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/fancymenu_neoforge_3.7.1_MC_1.21.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ferritecore-7.1.3-neoforge.jar:1.0.0@jar",
+          "name": "ferritecore-7.1.3-neoforge.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 107961,
+            "MD5": "71fe847d5c8f0dc84fa4acc8084344a3",
+            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/ferritecore-7.1.3-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:iris-neoforge-1.8.8-mc1.21.4.jar:1.0.0@jar",
+          "name": "iris-neoforge-1.8.8+mc1.21.4.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 2622578,
+            "MD5": "3d56bb785c4c269a5cc4af00ba8272a1",
+            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/iris-neoforge-1.8.8+mc1.21.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:konkrete_neoforge_1.9.9_mc_1.21.4.jar:1.0.0@jar",
+          "name": "konkrete_neoforge_1.9.9_MC_1.21.4.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 620095,
+            "MD5": "e87c58d6494c879eac414281210eec85",
+            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/konkrete_neoforge_1.9.9_MC_1.21.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:koreanpatch-neoforge-1.9.6-mc1.21.3.jar:1.0.0@jar",
+          "name": "koreanpatch-neoforge-1.9.6+mc1.21.3.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 373020,
+            "MD5": "0c141d158f5b0c97e423f0cabf652f42",
+            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/koreanpatch-neoforge-1.9.6+mc1.21.3.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:lithium-neoforge-0.15.3-mc1.21.4.jar:1.0.0@jar",
+          "name": "lithium-neoforge-0.15.3+mc1.21.4.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 774741,
+            "MD5": "7d7a1b17e5c5eaa6cf64e3757909e463",
+            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/lithium-neoforge-0.15.3+mc1.21.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:melody_neoforge_1.0.10_mc_1.21.jar:1.0.0@jar",
+          "name": "melody_neoforge_1.0.10_MC_1.21.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 36096,
+            "MD5": "875f4a68f2cd7ee2cc135904653c93d4",
+            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/melody_neoforge_1.0.10_MC_1.21.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:mousetweaks-neoforge-mc1.21.3-2.26.1.jar:1.0.0@jar",
+          "name": "MouseTweaks-neoforge-mc1.21.3-2.26.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 73946,
+            "MD5": "b3849b7fc8b2f035dcc1357f23fe959d",
+            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/MouseTweaks-neoforge-mc1.21.3-2.26.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:plasmovoice-neoforge-1.21.4-2.1.13.jar:1.0.0@jar",
+          "name": "plasmovoice-neoforge-1.21.4-2.1.13.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 12303739,
+            "MD5": "cc4cf570f961b064453c42b72878be4c",
+            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/plasmovoice-neoforge-1.21.4-2.1.13.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:reeses-sodium-options-neoforge-1.8.3-mc1.21.4.jar:1.0.0@jar",
+          "name": "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 78451,
+            "MD5": "f3a0d7f31993d6f34e90f816f82cbcaf",
+            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:sodium-extra-neoforge-0.6.1-mc1.21.4.jar:1.0.0@jar",
+          "name": "sodium-extra-neoforge-0.6.1+mc1.21.4.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 353729,
+            "MD5": "2e8a09b6104365133bf5bf4789728add",
+            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/sodium-extra-neoforge-0.6.1+mc1.21.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:sodium-neoforge-0.6.13-mc1.21.4.jar:1.0.0@jar",
+          "name": "sodium-neoforge-0.6.13+mc1.21.4.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1161460,
+            "MD5": "97dd733bf0057fe83d9f35b1a0cf010d",
+            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/sodium-neoforge-0.6.13+mc1.21.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:talking-heads-1.1.3-1.21.4-neoforge.jar:1.0.0@jar",
+          "name": "talking-heads-1.1.3+1.21.4+neoforge.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 288298,
+            "MD5": "1e8e5c8e75fc6ee6809778e17b91d532",
+            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/talking-heads-1.1.3+1.21.4+neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:entity_model_features-3.2.4-1.21.4-neoforge.jar:1.0.0@jar",
+          "name": "entity_model_features-3.2.4-1.21.4-neoforge.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 574049,
+            "MD5": "fb1652770e8bf7b860b8edd0e147d763",
+            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/entity_model_features-3.2.4-1.21.4-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:entity_texture_features_1.21.4-neoforge-7.1.jar:1.0.0@jar",
+          "name": "entity_texture_features_1.21.4-neoforge-7.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 755827,
+            "MD5": "8c3e2274ecc786d830f5783f62da4eb5",
+            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/entity_texture_features_1.21.4-neoforge-7.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:entityculling-neoforge-1.10.5-mc1.21.4.jar:1.0.0@jar",
+          "name": "entityculling-neoforge-1.10.5-mc1.21.4.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1587752,
+            "MD5": "bb396d7ed9a856a650c0088f44519d60",
+            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/entityculling-neoforge-1.10.5-mc1.21.4.jar"
+          }
         }
-      ]
+      ],
+      "whitelist": [
+        "Han_Ol"
+      ],
+      "background": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/background.png"
     }
   ]
 }
