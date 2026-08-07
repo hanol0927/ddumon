@@ -1,5 +1,5 @@
 {
-  "version": "1.0.22",
+  "version": "1.0.23",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "뚜몬서버",
       "description": "뚜몬서버",
       "icon": "https://hanol0927.github.io/ddumon/servers/ddumon-26.1.2/Icon.png",
-      "version": "1.0.8",
+      "version": "1.0.9",
       "address": "private-scn-sev83.scn.pw:1783",
       "minecraftVersion": "26.1.2",
       "discord": {
@@ -1190,7 +1190,7 @@
         "nering0117",
         "moongjji_",
         "KIMNANAM",
-        "bobo_bobo",
+        "bobo_bobo_",
         "Goyak2",
         "Bana0707",
         "Iron_Dragon___",
