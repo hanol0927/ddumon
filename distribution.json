@@ -1,5 +1,5 @@
 {
-  "version": "1.0.24",
+  "version": "1.0.25",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -1209,7 +1209,7 @@
       "name": "경도 시즌2: 13일의 금요일 밤",
       "description": "",
       "icon": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/icon.png",
-      "version": "1.0.10",
+      "version": "1.0.11",
       "address": "182.216.39.35:20015",
       "minecraftVersion": "1.21.4",
       "autoconnect": true,
@@ -2002,17 +2002,6 @@
             "MD5": "0f46f98b141d384d67af49266dc209f1",
             "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/shaderpacks/BSL_v10.1.1.zip",
             "path": "shaderpacks/BSL_v10.1.1.zip"
-          }
-        },
-        {
-          "id": "BSL_v10.1.1.zip.txt",
-          "name": "BSL_v10.1.1.zip.txt",
-          "type": "File",
-          "artifact": {
-            "size": 731,
-            "MD5": "dcaed8b9942c540c69d81c2df1f64700",
-            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/shaderpacks/BSL_v10.1.1.zip.txt",
-            "path": "shaderpacks/BSL_v10.1.1.zip.txt"
           }
         }
       ],
