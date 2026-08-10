@@ -1,5 +1,5 @@
 {
-  "version": "1.0.32",
+  "version": "1.0.33",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -2031,7 +2031,7 @@
       "name": "마크 놀이터",
       "description": "하드코어 마크 놀이터",
       "icon": "https://hanol0927.github.io/Playground/servers/Playground/icon.png",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "address": "",
       "minecraftVersion": "26.1.2",
       "autoconnect": false,
@@ -2466,17 +2466,17 @@
           }
         },
         {
-          "id": "generated.forgemod:sharedhealthhud-1.1.0.jar:1.0.0@jar",
-          "name": "sharedhealthhud-1.1.0.jar",
-          "type": "ForgeMod",
+          "id": "generated.fabricmod:sharedhealthhud-1.2.0.jar:1.0.0@jar",
+          "name": "sharedhealthhud-1.2.0.jar",
+          "type": "FabricMod",
           "required": {
             "value": true,
             "def": true
           },
           "artifact": {
-            "size": 65462,
-            "MD5": "88b84affe14f4fa2b0deba5b19acf959",
-            "url": "https://hanol0927.github.io/Playground/servers/Playground/mods/sharedhealthhud-1.1.0.jar"
+            "size": 66950,
+            "MD5": "c22a3aba07a6d816e7b36f2e43b01adc",
+            "url": "https://hanol0927.github.io/Playground/servers/Playground/mods/sharedhealthhud-1.2.0.jar"
           }
         }
       ],
