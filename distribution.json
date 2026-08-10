@@ -1,5 +1,5 @@
 {
-  "version": "1.0.34",
+  "version": "1.0.35",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -2031,7 +2031,7 @@
       "name": "마크 놀이터",
       "description": "하드코어 마크 놀이터",
       "icon": "https://hanol0927.github.io/Playground/servers/Playground/icon.png",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "address": "",
       "minecraftVersion": "26.1.2",
       "autoconnect": false,
@@ -2483,7 +2483,8 @@
       "whitelist": [
         "Han_Ol",
         "J__Dani",
-        "GOODBOYJBD"
+        "GOODBOYJBD",
+        "HanDuor"
       ],
       "background": "https://hanol0927.github.io/Playground/servers/Playground/background.png",
       "onceFiles": [
