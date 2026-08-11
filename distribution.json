@@ -1,5 +1,5 @@
 {
-  "version": "1.0.37",
+  "version": "1.0.38",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "경도 시즌2: 13일의 금요일 밤",
       "description": "",
       "icon": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/icon.png",
-      "version": "1.0.16",
+      "version": "1.0.17",
       "address": "182.216.39.35:20015",
       "minecraftVersion": "1.21.4",
       "autoconnect": true,
@@ -559,20 +559,6 @@
           ]
         },
         {
-          "id": "generated.forgemod:hanpolicemod-1.0.jar:1.0.0@jar",
-          "name": "hanpolicemod-1.0.jar",
-          "type": "ForgeMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
-          "artifact": {
-            "size": 2220403,
-            "MD5": "8543d53615a7a2ea1c8291056e5fc234",
-            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/hanpolicemod-1.0.jar"
-          }
-        },
-        {
           "id": "generated.forgemod:fancymenu_neoforge_3.7.1_mc_1.21.4.jar:1.0.0@jar",
           "name": "fancymenu_neoforge_3.7.1_MC_1.21.4.jar",
           "type": "ForgeMod",
@@ -806,6 +792,20 @@
             "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/shaderpacks/BSL_v10.1.1.zip",
             "path": "shaderpacks/BSL_v10.1.1.zip"
           }
+        },
+        {
+          "id": "generated.forgemod:hanpolicemod-2.0.jar:1.0.0@jar",
+          "name": "hanpolicemod-2.0.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 261,
+            "MD5": "f43436d6bec321290f6af228ad602604",
+            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/hanpolicemod-2.0.jar"
+          }
         }
       ],
       "whitelist": [
@@ -827,7 +827,8 @@
           "size": 296,
           "MD5": "9f31f45efc7d366fb3ae7307d24420e5"
         }
-      ]
+      ],
+      "mainServer": true
     },
     {
       "id": "Playground",
