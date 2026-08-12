@@ -1,5 +1,5 @@
 {
-  "version": "1.0.41",
+  "version": "1.0.42",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "경도 시즌2: 13일의 금요일 밤",
       "description": "",
       "icon": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/icon.png",
-      "version": "1.0.20",
+      "version": "1.0.21",
       "address": "182.216.39.35:20015",
       "minecraftVersion": "1.21.4",
       "autoconnect": true,
@@ -802,9 +802,79 @@
             "def": true
           },
           "artifact": {
-            "size": 2304800,
-            "MD5": "31434dc6fec74f5e8abdfa9e6f782579",
+            "size": 2311776,
+            "MD5": "a86990b3012a18b9404ef191414133ff",
             "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/hanpolicemod-2.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:emotecraft-neoforge-for-mc1.21.4-2.5.8.jar:1.0.0@jar",
+          "name": "emotecraft-neoforge-for-MC1.21.4-2.5.8.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1260413,
+            "MD5": "8e05f18a35d9bc3023d90a2d02eb239d",
+            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/emotecraft-neoforge-for-MC1.21.4-2.5.8.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:immediatelyfast-neoforge-1.8.7-1.21.4.jar:1.0.0@jar",
+          "name": "ImmediatelyFast-NeoForge-1.8.7+1.21.4.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 338194,
+            "MD5": "5032b638d404da9e3ebcb547943862b1",
+            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/ImmediatelyFast-NeoForge-1.8.7+1.21.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:modernfix-neoforge-5.20.3-mc1.21.4.jar:1.0.0@jar",
+          "name": "modernfix-neoforge-5.20.3+mc1.21.4.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 470519,
+            "MD5": "5c4f410f706f85267914d321a3ddd0dc",
+            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/modernfix-neoforge-5.20.3+mc1.21.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:online-emotes-3.3.5-mc1.21.4-forge.jar:1.0.0@jar",
+          "name": "online-emotes-3.3.5+mc1.21.4-forge.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1097682,
+            "MD5": "c2aae9e1ac588c48a150040072afe19b",
+            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/online-emotes-3.3.5+mc1.21.4-forge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:player-animation-lib-forge-2.0.5-1.21.4.jar:1.0.0@jar",
+          "name": "player-animation-lib-forge-2.0.5+1.21.4.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 201622,
+            "MD5": "b3635eb2a9e6bd1409e06128102de8b0",
+            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/player-animation-lib-forge-2.0.5+1.21.4.jar"
           }
         }
       ],
@@ -812,7 +882,8 @@
         "Han_Ol",
         "Clearbody",
         "Chaenna",
-        "KKK92"
+        "KKK92",
+        "PSR_A"
       ],
       "background": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/background.png",
       "onceFiles": [
@@ -827,8 +898,609 @@
           "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/config/iris.properties",
           "size": 296,
           "MD5": "9f31f45efc7d366fb3ae7307d24420e5"
+        },
+        {
+          "path": "emotes/chill_breahting.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/chill_breahting.json",
+          "size": 217051,
+          "MD5": "05890f5b3022f30c6fbc1be2b716d264"
+        },
+        {
+          "path": "emotes/circle_hand.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/circle_hand.json",
+          "size": 62933,
+          "MD5": "d17b4ff84a8d7aed4b32dbc434eef9cf"
+        },
+        {
+          "path": "emotes/congrats.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/congrats.json",
+          "size": 47762,
+          "MD5": "71ceb6e5a185bfaba95cdcb4a173d6fb"
+        },
+        {
+          "path": "emotes/cookie_step.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/cookie_step.json",
+          "size": 130656,
+          "MD5": "e5f089a5c28712271200b456c2bf7422"
+        },
+        {
+          "path": "emotes/dab.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/dab.json",
+          "size": 129403,
+          "MD5": "d367471b09dd8feec480f823d5095dbd"
+        },
+        {
+          "path": "emotes/dinnerbone.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/dinnerbone.json",
+          "size": 257580,
+          "MD5": "375f8ccb3d35da99c3e634e57ab9d881"
+        },
+        {
+          "path": "emotes/dissapointed.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/dissapointed.json",
+          "size": 47932,
+          "MD5": "6fbddceb66907b5ac6adff259bb9ca35"
+        },
+        {
+          "path": "emotes/do_flip.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/do_flip.json",
+          "size": 140223,
+          "MD5": "83e48d1575bb9001dd53a5d8a51a74ac"
+        },
+        {
+          "path": "emotes/drunk_see_you.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/drunk_see_you.json",
+          "size": 86348,
+          "MD5": "cbd6a8f5bc0acd3606d41e2e31ed2915"
+        },
+        {
+          "path": "emotes/elevate.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/elevate.json",
+          "size": 288313,
+          "MD5": "0e4d66c4b60c30fc1d674c68afc8dadf"
+        },
+        {
+          "path": "emotes/ender_warp.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/ender_warp.json",
+          "size": 6907,
+          "MD5": "03d4381457627d5a42f214d4a78513b7"
+        },
+        {
+          "path": "emotes/excalibur.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/excalibur.json",
+          "size": 415047,
+          "MD5": "3a379a9ab2bd70101143dd7f95295604"
+        },
+        {
+          "path": "emotes/fainted.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/fainted.json",
+          "size": 71220,
+          "MD5": "1146331d9218890f96b37c30ce8665e3"
+        },
+        {
+          "path": "emotes/fish_needs_water.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/fish_needs_water.json",
+          "size": 173955,
+          "MD5": "35a23523f94682b9603b0d70aab55caa"
+        },
+        {
+          "path": "emotes/friendly_greets.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/friendly_greets.json",
+          "size": 167617,
+          "MD5": "5a68081c1e7a4ce0ec7961c1e585f15d"
+        },
+        {
+          "path": "emotes/great_job.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/great_job.json",
+          "size": 79270,
+          "MD5": "2dff330c679daac74424f2885ac608dc"
+        },
+        {
+          "path": "emotes/greetings.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/greetings.json",
+          "size": 14996,
+          "MD5": "4254868ca23695cc7fb963a538f5f054"
+        },
+        {
+          "path": "emotes/ground_breaker.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/ground_breaker.json",
+          "size": 181856,
+          "MD5": "c617914738dbd43babcb4ed2e59fbc86"
+        },
+        {
+          "path": "emotes/hands_around.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/hands_around.json",
+          "size": 97192,
+          "MD5": "b515356bab945186c217ccf738ab31ee"
+        },
+        {
+          "path": "emotes/head_and_shoulders.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/head_and_shoulders.json",
+          "size": 45681,
+          "MD5": "028e87a1a711f10c68b6aebf414eaf69"
+        },
+        {
+          "path": "emotes/headfall.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/headfall.json",
+          "size": 69873,
+          "MD5": "37e1ef9f01f0f1ac6a7aa4bd1bc91ca0"
+        },
+        {
+          "path": "emotes/helicopter_helicopter.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/helicopter_helicopter.json",
+          "size": 94635,
+          "MD5": "4b614bb0faf40bc61b091f3c9985f986"
+        },
+        {
+          "path": "emotes/heyo.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/heyo.json",
+          "size": 96765,
+          "MD5": "1d85df35b4e613fcdd10e5e9a485367b"
+        },
+        {
+          "path": "emotes/hurry_walk.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/hurry_walk.json",
+          "size": 30911,
+          "MD5": "4a718c892cd1929a91ce8973bf031091"
+        },
+        {
+          "path": "emotes/idol_point.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/idol_point.json",
+          "size": 166565,
+          "MD5": "5f08d3760dd4d7ce813b9f093254cfba"
+        },
+        {
+          "path": "emotes/inspecting_weapon.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/inspecting_weapon.json",
+          "size": 117325,
+          "MD5": "d530368324a133b9709fcfef155e1dc9"
+        },
+        {
+          "path": "emotes/item_examine.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/item_examine.json",
+          "size": 101259,
+          "MD5": "b4c1597b5da19503cc77f329ecdc7c56"
+        },
+        {
+          "path": "emotes/jumping_jack.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/jumping_jack.json",
+          "size": 120132,
+          "MD5": "211ded9608c73de638b3a7cf74c8e067"
+        },
+        {
+          "path": "emotes/karate_jump.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/karate_jump.json",
+          "size": 268194,
+          "MD5": "d9245bb50042541bc47be26a11dcff5f"
+        },
+        {
+          "path": "emotes/kiss_kiss.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/kiss_kiss.json",
+          "size": 97132,
+          "MD5": "2c780efb8283ef05f17d8afe1938b32a"
+        },
+        {
+          "path": "emotes/lauching_backforth.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/lauching_backforth.json",
+          "size": 158171,
+          "MD5": "f06f7505f486a9d70db15e9c66fa0e3b"
+        },
+        {
+          "path": "emotes/lazy_stretch.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/lazy_stretch.json",
+          "size": 169085,
+          "MD5": "0cb3bb56d307c6c4b6e383742a236f02"
+        },
+        {
+          "path": "emotes/lean_back.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/lean_back.json",
+          "size": 97269,
+          "MD5": "fa49a99869744d66f5300afa899492a0"
+        },
+        {
+          "path": "emotes/left_to_the_right.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/left_to_the_right.json",
+          "size": 234333,
+          "MD5": "0b651c81e9fb70d8f003250e57b73691"
+        },
+        {
+          "path": "emotes/like_matrix.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/like_matrix.json",
+          "size": 368372,
+          "MD5": "5ea878f3d6f87034d29d7b75dd69fbc2"
+        },
+        {
+          "path": "emotes/look_closer.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/look_closer.json",
+          "size": 220231,
+          "MD5": "5763ccfdea45c31e422a716f2a4f416c"
+        },
+        {
+          "path": "emotes/meditate.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/meditate.json",
+          "size": 198666,
+          "MD5": "466b3fb17c0e95d913d355dd978f549c"
+        },
+        {
+          "path": "emotes/middle_split.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/middle_split.json",
+          "size": 230138,
+          "MD5": "50d94bfb72ddf21b0a895a719d8723cd"
+        },
+        {
+          "path": "emotes/muhaha.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/muhaha.json",
+          "size": 28762,
+          "MD5": "f4f48715aa805984b39743420fd4ca02"
+        },
+        {
+          "path": "emotes/ninja_rush.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/ninja_rush.json",
+          "size": 31322,
+          "MD5": "4ce3e3c4d84c8f8f7be17ae797b8f3fc"
+        },
+        {
+          "path": "emotes/no_you.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/no_you.json",
+          "size": 90903,
+          "MD5": "977d30eb358f14d079285611ad77b91e"
+        },
+        {
+          "path": "emotes/o_i_i_a.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/o_i_i_a.json",
+          "size": 8020,
+          "MD5": "78a4d9c61d9806605039403a002e061f"
+        },
+        {
+          "path": "emotes/on_four.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/on_four.json",
+          "size": 160980,
+          "MD5": "b286788fb2273343e964dbee304b7aaa"
+        },
+        {
+          "path": "emotes/oopsies.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/oopsies.json",
+          "size": 198372,
+          "MD5": "3d03e12c85a876b5f3a49ed2321f0203"
+        },
+        {
+          "path": "emotes/quicksand.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/quicksand.json",
+          "size": 140211,
+          "MD5": "416f4742a255d9b402b450138164bc81"
+        },
+        {
+          "path": "emotes/rocky.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/rocky.json",
+          "size": 47131,
+          "MD5": "3c52466ace6d6ae024f77937c9a8efa8"
+        },
+        {
+          "path": "emotes/shake_shake_shake.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/shake_shake_shake.json",
+          "size": 134619,
+          "MD5": "7350cb714f2ca3013fe54260e21a552e"
+        },
+        {
+          "path": "emotes/shattered.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/shattered.json",
+          "size": 96922,
+          "MD5": "728b9e9df72368fde38e67a170c1d200"
+        },
+        {
+          "path": "emotes/side_to_side.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/side_to_side.json",
+          "size": 267473,
+          "MD5": "c36684eeb2e9de054dcfbf4680d0ac48"
+        },
+        {
+          "path": "emotes/slowed_knockout.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/slowed_knockout.json",
+          "size": 335561,
+          "MD5": "83952c910304a1fc666a46e8c944d28c"
+        },
+        {
+          "path": "emotes/small_jump.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/small_jump.json",
+          "size": 131900,
+          "MD5": "9c3bc1a0e99af2b01138a2ba6ecaa4bc"
+        },
+        {
+          "path": "emotes/sneeze_holding.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/sneeze_holding.json",
+          "size": 163556,
+          "MD5": "60249f9b79aca24b1f47182e66236675"
+        },
+        {
+          "path": "emotes/snowy_angel.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/snowy_angel.json",
+          "size": 212697,
+          "MD5": "2c357dc6f366f39e459e270772dc8b16"
+        },
+        {
+          "path": "emotes/sobbing.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/sobbing.json",
+          "size": 75799,
+          "MD5": "a8aeebfe29dadeab4e0a707c3244abc2"
+        },
+        {
+          "path": "emotes/sparkling_there.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/sparkling_there.json",
+          "size": 153476,
+          "MD5": "021c9864e1b33cea9b27d0b9f4d55f2c"
+        },
+        {
+          "path": "emotes/spiral.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/spiral.json",
+          "size": 223414,
+          "MD5": "0db4e455cb6f3483798fe45cec3461ff"
+        },
+        {
+          "path": "emotes/splitzy.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/splitzy.json",
+          "size": 116338,
+          "MD5": "23493d1fcd8a9566440cc11892a74dcb"
+        },
+        {
+          "path": "emotes/toyed_out.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/toyed_out.json",
+          "size": 173888,
+          "MD5": "d4f4b59b8767c313a0a4e2fada8e06da"
+        },
+        {
+          "path": "emotes/transcend.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/transcend.json",
+          "size": 281722,
+          "MD5": "b75039c24169345732afbe145b9da3b2"
+        },
+        {
+          "path": "emotes/waist_step.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/waist_step.json",
+          "size": 107440,
+          "MD5": "e7f73fb6df5ddc369f3e4f789ba63b50"
+        },
+        {
+          "path": "emotes/where_is_it.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/where_is_it.json",
+          "size": 115136,
+          "MD5": "734c87b3c486e81dc1bd1c5ca72bb871"
+        },
+        {
+          "path": "emotes/yawning.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/yawning.json",
+          "size": 162406,
+          "MD5": "a335888e610df111187cdf68630a2588"
+        },
+        {
+          "path": "emotes/zombo.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/zombo.json",
+          "size": 233496,
+          "MD5": "4e99c801e203acc201a14676c5e2ea14"
+        },
+        {
+          "path": "emotes/absolutely.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/absolutely.json",
+          "size": 102360,
+          "MD5": "bac282c565b243930ac1ac010ffe365d"
+        },
+        {
+          "path": "emotes/all_of_you.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/all_of_you.json",
+          "size": 256836,
+          "MD5": "52d4085d9c80bc127078abb18e6112b3"
+        },
+        {
+          "path": "emotes/balancing.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/balancing.json",
+          "size": 195877,
+          "MD5": "266a9f1357186ddb442e6a8418adab10"
+        },
+        {
+          "path": "emotes/belly_waving.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/belly_waving.json",
+          "size": 74497,
+          "MD5": "be5c7198f271ce9a504d625256b422ab"
+        },
+        {
+          "path": "emotes/blade_dancer.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/blade_dancer.json",
+          "size": 372646,
+          "MD5": "74b1ee8828e5108651d29695bfce1d38"
+        },
+        {
+          "path": "emotes/blank_out.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/blank_out.json",
+          "size": 169993,
+          "MD5": "ec8966e9a7a40973b3a442af2ab2e68d"
+        },
+        {
+          "path": "emotes/blocking.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/blocking.json",
+          "size": 128233,
+          "MD5": "d177a54e711481f6ea8c82221c43d224"
+        },
+        {
+          "path": "emotes/Clap.emotecraft",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/Clap.emotecraft",
+          "size": 50602,
+          "MD5": "6aaa685477b1e2e69af0c32565f88bff"
+        },
+        {
+          "path": "emotes/club penguin dance.emotecraft",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/club penguin dance.emotecraft",
+          "size": 49026,
+          "MD5": "b09b939c3cbc2d8ab7794a7d760db944"
+        },
+        {
+          "path": "emotes/Default Dance.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/Default Dance.json",
+          "size": 1280035,
+          "MD5": "8d654c0213dffba31b0b8fb733e741c0"
+        },
+        {
+          "path": "emotes/Dramatic lay.emotecraft",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/Dramatic lay.emotecraft",
+          "size": 60415,
+          "MD5": "75b634b7ef0eb474f511309cbf8ad9ad"
+        },
+        {
+          "path": "emotes/Drinking liquid.emotecraft",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/Drinking liquid.emotecraft",
+          "size": 20820,
+          "MD5": "7b53425e49fe42f5adeb478f5d876b23"
+        },
+        {
+          "path": "emotes/Front flip.emotecraft",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/Front flip.emotecraft",
+          "size": 56784,
+          "MD5": "4ab18f6394b31e7ea6b31ab528c7a9b0"
+        },
+        {
+          "path": "emotes/Front Lying.emotecraft",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/Front Lying.emotecraft",
+          "size": 32639,
+          "MD5": "9f0a15f50c03c6f60e3e5fb58bb3f7a6"
+        },
+        {
+          "path": "emotes/Gagnam style.emotecraft",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/Gagnam style.emotecraft",
+          "size": 47381,
+          "MD5": "04c6ae206aefc6a240a3f28d56ba284f"
+        },
+        {
+          "path": "emotes/Headpat.emotecraft",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/Headpat.emotecraft",
+          "size": 72002,
+          "MD5": "110e6afef0078980eee511e2e063f079"
+        },
+        {
+          "path": "emotes/helicopter.emotecraft",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/helicopter.emotecraft",
+          "size": 43275,
+          "MD5": "b0d18d91e35408c7b78e3ed5a21a1b89"
+        },
+        {
+          "path": "emotes/Killed.emotecraft",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/Killed.emotecraft",
+          "size": 26758,
+          "MD5": "ab6a47e4ef57b146a1801ec9a1ace5c3"
+        },
+        {
+          "path": "emotes/Kwik Flip V1.emotecraft",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/Kwik Flip V1.emotecraft",
+          "size": 10901,
+          "MD5": "ad6e92db2119587819570c243ee1d451"
+        },
+        {
+          "path": "emotes/Kwik Flip V2.emotecraft",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/Kwik Flip V2.emotecraft",
+          "size": 11691,
+          "MD5": "10be4bd07da6ce5872ebb5754233645a"
+        },
+        {
+          "path": "emotes/Lay on back.emotecraft",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/Lay on back.emotecraft",
+          "size": 33125,
+          "MD5": "465ffc6397078d58e7db2a1b2ade7cb4"
+        },
+        {
+          "path": "emotes/Lay on side.emotecraft",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/Lay on side.emotecraft",
+          "size": 53989,
+          "MD5": "ddab70e77f3d3db3ff74cedcc7388155"
+        },
+        {
+          "path": "emotes/Levitating.emotecraft",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/Levitating.emotecraft",
+          "size": 17065,
+          "MD5": "1bd04400a6fe766479dd35fac5ccdf61"
+        },
+        {
+          "path": "emotes/little_captain.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/little_captain.json",
+          "size": 5793865,
+          "MD5": "46474857a825b10cba49c1b01c1fa716"
+        },
+        {
+          "path": "emotes/Miku Live.emotecraft",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/Miku Live.emotecraft",
+          "size": 40109,
+          "MD5": "ea51652456f44498f455d67c7097147b"
+        },
+        {
+          "path": "emotes/Otsukare Summer (Client).emotecraft",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/Otsukare Summer (Client).emotecraft",
+          "size": 90900,
+          "MD5": "a9488f4a5335d8ceed53c4dac66e7dd1"
+        },
+        {
+          "path": "emotes/Point.emotecraft",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/Point.emotecraft",
+          "size": 48217,
+          "MD5": "88ce6922e9a6db0721dd7ffecd2cf96f"
+        },
+        {
+          "path": "emotes/Sit.emotecraft",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/Sit.emotecraft",
+          "size": 394,
+          "MD5": "dc0cfb47fdc8b54cad33e289f6755029"
+        },
+        {
+          "path": "emotes/THIS IS POWER!!!.emotecraft",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/THIS IS POWER!!!.emotecraft",
+          "size": 700295,
+          "MD5": "99c7d3e98e1f03b32e2572247f823f9e"
+        },
+        {
+          "path": "emotes/T-Pose.emotecraft",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/T-Pose.emotecraft",
+          "size": 949,
+          "MD5": "b422cf38c6b383c08ed347d6ae1f6f2c"
+        },
+        {
+          "path": "emotes/Zero Two Jump.emotecraft",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/Zero Two Jump.emotecraft",
+          "size": 59839,
+          "MD5": "2ba423e0abf1e54c1b23246d8bb56853"
+        },
+        {
+          "path": "emotes/Animan Walk.emotecraft",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/Animan Walk.emotecraft",
+          "size": 42680,
+          "MD5": "8e964a59229df0a872327e1a68af98da"
+        },
+        {
+          "path": "emotes/Bommerang.emotecraft",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/Bommerang.emotecraft",
+          "size": 1658,
+          "MD5": "bd798fe85880df14b9bcab33f7a68efc"
+        },
+        {
+          "path": "emotes/boom.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/boom.json",
+          "size": 3480229,
+          "MD5": "86fb5215bb3884068b0c63c7e759bbca"
+        },
+        {
+          "path": "emotes/Catch_catch.json",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/Catch_catch.json",
+          "size": 4501382,
+          "MD5": "06c8f57569c9ebf18b4dc5ef94eb249d"
+        },
+        {
+          "path": "emotes/CHAOS CHAOS.emotecraft",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/CHAOS CHAOS.emotecraft",
+          "size": 109601,
+          "MD5": "a80ac01581836b61d6847615c2197102"
+        },
+        {
+          "path": "emotes/Cheer.emotecraft",
+          "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/emotes/Cheer.emotecraft",
+          "size": 24904,
+          "MD5": "3f7ba6028a34af8829f28e77fe8bc7a4"
         }
-      ]
+      ],
+      "mainServer": true
     },
     {
       "id": "Playground",
