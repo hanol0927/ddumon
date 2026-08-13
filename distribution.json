@@ -1,5 +1,5 @@
 {
-  "version": "1.0.44",
+  "version": "1.0.45",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "경도 시즌2: 13일의 금요일 밤",
       "description": "",
       "icon": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/icon.png",
-      "version": "1.0.23",
+      "version": "1.0.24",
       "address": "182.216.39.35:20015",
       "minecraftVersion": "1.21.4",
       "autoconnect": true,
@@ -780,20 +780,6 @@
           }
         },
         {
-          "id": "generated.forgemod:hanpolicemod-2.0.jar:1.0.0@jar",
-          "name": "hanpolicemod-2.0.jar",
-          "type": "ForgeMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
-          "artifact": {
-            "size": 2299944,
-            "MD5": "ee84b1fd42a575a4767c645ded43fdc7",
-            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/hanpolicemod-2.0.jar"
-          }
-        },
-        {
           "id": "generated.forgemod:emotecraft-neoforge-for-mc1.21.4-2.5.8.jar:1.0.0@jar",
           "name": "emotecraft-neoforge-for-MC1.21.4-2.5.8.jar",
           "type": "ForgeMod",
@@ -861,6 +847,20 @@
             "size": 470519,
             "MD5": "5c4f410f706f85267914d321a3ddd0dc",
             "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/modernfix-neoforge-5.20.3+mc1.21.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:hanpolicemod-2.0.jar:1.0.0@jar",
+          "name": "hanpolicemod-2.0.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 2314255,
+            "MD5": "db63c32623bf3bdf3589657c4b3f6a6b",
+            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/hanpolicemod-2.0.jar"
           }
         }
       ],
