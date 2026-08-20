@@ -1,5 +1,5 @@
 {
-  "version": "1.0.61",
+  "version": "1.0.62",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "경도 시즌2: 13일의 금요일 밤",
       "description": "",
       "icon": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/icon.png",
-      "version": "1.0.33",
+      "version": "1.0.34",
       "address": "chaenna.dotsminestudio.kr",
       "minecraftVersion": "1.21.4",
       "autoconnect": true,
@@ -861,6 +861,28 @@
             "size": 12328179,
             "MD5": "fa92ff8d52d773ef51974a0faf67c04e",
             "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/plasmovoice-neoforge-1.21.4-2.1.14.jar"
+          }
+        },
+        {
+          "id": "talkingheads.json5",
+          "name": "talkingheads.json5",
+          "type": "File",
+          "artifact": {
+            "size": 218,
+            "MD5": "92981b0cc119348102b15d604b88740b",
+            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/config/plasmovoice/talkingheads.json5",
+            "path": "config/plasmovoice/talkingheads.json5"
+          }
+        },
+        {
+          "id": "client.toml",
+          "name": "client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1246,
+            "MD5": "61ef47c1c1c97545963dc2b80c93ae04",
+            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/config/client.toml",
+            "path": "config/client.toml"
           }
         }
       ],
