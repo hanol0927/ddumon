@@ -1,5 +1,5 @@
 {
-  "version": "1.0.65",
+  "version": "1.0.66",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "경도 시즌2: 13일의 금요일 밤",
       "description": "",
       "icon": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/icon.png",
-      "version": "1.0.37",
+      "version": "1.0.38",
       "address": "chaenna.dotsminestudio.kr",
       "minecraftVersion": "1.21.4",
       "autoconnect": true,
@@ -836,6 +836,20 @@
           }
         },
         {
+          "id": "generated.forgemod:hanpolicemod-2.0.jar:1.0.0@jar",
+          "name": "hanpolicemod-2.0.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 2320289,
+            "MD5": "5cf28ee6e8af7a65f7ec2573d174d2cb",
+            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/hanpolicemod-2.0.jar"
+          }
+        },
+        {
           "id": "generated.forgemod:plasmovoice-neoforge-1.21.4-2.1.14.jar:1.0.0@jar",
           "name": "plasmovoice-neoforge-1.21.4-2.1.14.jar",
           "type": "ForgeMod",
@@ -869,20 +883,6 @@
             "MD5": "61ef47c1c1c97545963dc2b80c93ae04",
             "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/files/config/client.toml",
             "path": "config/client.toml"
-          }
-        },
-        {
-          "id": "generated.forgemod:hanpolicemod-2.0.jar:1.0.0@jar",
-          "name": "hanpolicemod-2.0.jar",
-          "type": "ForgeMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
-          "artifact": {
-            "size": 2327297,
-            "MD5": "6ac3a3c3198adb57fc434e2ff0911038",
-            "url": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/mods/hanpolicemod-2.0.jar"
           }
         }
       ],
@@ -1507,7 +1507,57 @@
           "MD5": "35e3d970dad1cebd0da3c2f3bb0266de"
         }
       ],
-      "mainServer": true
+      "mainServer": true,
+      "whitelist": [
+        "424242",
+        "ayane_sena",
+        "applemong",
+        "Koi_3oO",
+        "zzangkaka",
+        "Hin_Qoc",
+        "Gosummer1212",
+        "Yunag1",
+        "SooBni_",
+        "Nancho3o",
+        "DDO_OCAT",
+        "Larothy",
+        "qooqoo3110",
+        "realBusinessKim",
+        "PopoS2",
+        "9_month",
+        "Xiru_Nyang",
+        "9ambler",
+        "YeYo25",
+        "ggumteulii",
+        "LEOPELMASTER",
+        "Hanana0408",
+        "navian0814",
+        "M0YO",
+        "DambiS2",
+        "beberrying",
+        "owo_zzz",
+        "Mingturn",
+        "Victory_w",
+        "kimmakdaeng",
+        "HI__YO",
+        "kyma_4u",
+        "chorok_byi",
+        "bibianS2",
+        "moonkong0",
+        "111roentgenium",
+        "ddaseui_",
+        "JyuJisang",
+        "MIHYEONYEONG",
+        "jey0803",
+        "_linling",
+        "Singgyul",
+        "Jerry__Chu",
+        "jangjisou",
+        "dlghfjs7",
+        "Han_Ol",
+        "clearbody",
+        "Chaenna"
+      ]
     },
     {
       "id": "Playground",
