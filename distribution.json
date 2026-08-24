@@ -1,5 +1,5 @@
 {
-  "version": "1.0.73",
+  "version": "1.0.74",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "경도 시즌2: 13일의 금요일 밤",
       "description": "",
       "icon": "https://hanol0927.github.io/Chaenna/servers/Chaenna-1.21.4/icon.png",
-      "version": "1.0.45",
+      "version": "1.0.46",
       "address": "chaenna.dotsminestudio.kr",
       "minecraftVersion": "1.21.4",
       "autoconnect": true,
@@ -1562,7 +1562,8 @@
         "babymansik",
         "JJisang",
         "KIM1SEONGTAEDA",
-        "sompunchh"
+        "sompunchh",
+        "soyuna1"
       ]
     },
     {
