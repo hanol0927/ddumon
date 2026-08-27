@@ -1,5 +1,5 @@
 {
-  "version": "1.0.80",
+  "version": "1.0.81",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -647,8 +647,7 @@
       "id": "kimetsu-1.20.1",
       "name": "kimetsu-1.20.1",
       "description": "",
-      "icon": "",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "",
       "minecraftVersion": "1.20.1",
       "autoconnect": false,
@@ -1061,6 +1060,706 @@
               }
             }
           ]
+        },
+        {
+          "id": "generated.forgemod:badmobs-1.20.1-19.0.4.jar:1.0.0@jar",
+          "name": "BadMobs-1.20.1-19.0.4.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 10425,
+            "MD5": "c82edfea81516b7f8c9607ad5b2f75d6",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/BadMobs-1.20.1-19.0.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:betteradvancements-forge-1.20.1-0.4.2.25.jar:1.0.0@jar",
+          "name": "BetterAdvancements-Forge-1.20.1-0.4.2.25.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 98124,
+            "MD5": "30f0ea1a5da2f22cb25d7794544b3c1f",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/BetterAdvancements-Forge-1.20.1-0.4.2.25.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:betterfpsdist-1.20.1-6.0.jar:1.0.0@jar",
+          "name": "betterfpsdist-1.20.1-6.0.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 19917,
+            "MD5": "34280e25bfb67f8ce08157129c8cb09d",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/betterfpsdist-1.20.1-6.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:bettervillage-forge-1.20.1-3.2.0.jar:1.0.0@jar",
+          "name": "bettervillage-forge-1.20.1-3.2.0.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 2257497,
+            "MD5": "8b221bcbb033cb822c808df8c7ac48a0",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/bettervillage-forge-1.20.1-3.2.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:carbonconfig-1.20-1.2.6.jar:1.0.0@jar",
+          "name": "CarbonConfig-1.20-1.2.6.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1037169,
+            "MD5": "eea1315fa060305587354caaed524f98",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/CarbonConfig-1.20-1.2.6.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:cloth-config-11.1.136-forge.jar:1.0.0@jar",
+          "name": "cloth-config-11.1.136-forge.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1181413,
+            "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/cloth-config-11.1.136-forge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:collective-1.20.1-7.87.jar:1.0.0@jar",
+          "name": "collective-1.20.1-7.87.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 648876,
+            "MD5": "b0bcc1d5e282bab76d0f8f39a85a1a92",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/collective-1.20.1-7.87.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:creativecore_forge_v2.12.31_mc1.20.1.jar:1.0.0@jar",
+          "name": "CreativeCore_FORGE_v2.12.31_mc1.20.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1158550,
+            "MD5": "1ba328e0a3dfb34261c234b5f02f8935",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/CreativeCore_FORGE_v2.12.31_mc1.20.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:cupboard-1.20.1-2.7.jar:1.0.0@jar",
+          "name": "cupboard-1.20.1-2.7.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 25983,
+            "MD5": "3620912474f47bf58d1fe5bfe133763a",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/cupboard-1.20.1-2.7.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:distanthorizons-2.2.0-a-1.20.1-forge-fabric.jar:1.0.0@jar",
+          "name": "DistantHorizons-2.2.0-a-1.20.1-forge-fabric.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 16515332,
+            "MD5": "a1a502b6773ed98de71c9d533ce163e8",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/DistantHorizons-2.2.0-a-1.20.1-forge-fabric.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:embeddium-0.3.31-mc1.20.1.jar:1.0.0@jar",
+          "name": "embeddium-0.3.31+mc1.20.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1320675,
+            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/embeddium-0.3.31+mc1.20.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:entityculling-forge-1.7.3-mc1.20.1.jar:1.0.0@jar",
+          "name": "entityculling-forge-1.7.3-mc1.20.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 77548,
+            "MD5": "34ae0d54004066bac5c13ab2129978b8",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/entityculling-forge-1.7.3-mc1.20.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:epiccompat_parcool-forge-1.20.1-1.0.3.jar:1.0.0@jar",
+          "name": "epiccompat_parcool-forge-1.20.1-1.0.3.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 24759,
+            "MD5": "268a7a845aa3028f71c528a257efb2dc",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/epiccompat_parcool-forge-1.20.1-1.0.3.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:epicfight-forge-20.9.7-1.20.1.jar:1.0.0@jar",
+          "name": "epicfight-forge-20.9.7-1.20.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 6772178,
+            "MD5": "5c8ee615c061a789b1a3d7ba8999367d",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/epicfight-forge-20.9.7-1.20.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:epicfight-resurrection-forge1.20.1-0.1.20-fix.jar:1.0.0@jar",
+          "name": "EpicFight-Resurrection-forge1.20.1-0.1.20-Fix.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 14213255,
+            "MD5": "c882e6ba1797b245020061de9821cee5",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/EpicFight-Resurrection-forge1.20.1-0.1.20-Fix.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:epickimetsunoyaiba-20.9.1.jar:1.0.0@jar",
+          "name": "EpicKimetsuNoYaiba-20.9.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 97375,
+            "MD5": "bdd1b893f189fb2a668804ef2755e7bf",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/EpicKimetsuNoYaiba-20.9.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:farsight-1.20.1-3.7.jar:1.0.0@jar",
+          "name": "farsight-1.20.1-3.7.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 440849,
+            "MD5": "4914b08ef1ce60daf701f84e1cb1834a",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/farsight-1.20.1-3.7.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ferritecore-6.0.1-forge.jar:1.0.0@jar",
+          "name": "ferritecore-6.0.1-forge.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 123034,
+            "MD5": "f52f538207a4829d7060550092ce2383",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/ferritecore-6.0.1-forge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:geckolib-forge-1.20.1-4.7.jar:1.0.0@jar",
+          "name": "geckolib-forge-1.20.1-4.7.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1004042,
+            "MD5": "96dddfb78d375bdd330ae1577ee28bfe",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/geckolib-forge-1.20.1-4.7.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:guardvillagers-1.20.1-1.6.10.jar:1.0.0@jar",
+          "name": "guardvillagers-1.20.1-1.6.10.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 199803,
+            "MD5": "67662a7eafb7e48d3003af1d115645f8",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/guardvillagers-1.20.1-1.6.10.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:iceberg-1.20.1-forge-1.1.25.jar:1.0.0@jar",
+          "name": "Iceberg-1.20.1-forge-1.1.25.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 134551,
+            "MD5": "cda8af806d0de012f5c7012ea51c155f",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/Iceberg-1.20.1-forge-1.1.25.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:indestructible-20.9.2.jar:1.0.0@jar",
+          "name": "indestructible-20.9.2.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 167416,
+            "MD5": "033b404f982a62a09552711b7e6e7267",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/indestructible-20.9.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:itemphysic_forge_v1.8.4_mc1.20.1.jar:1.0.0@jar",
+          "name": "ItemPhysic_FORGE_v1.8.4_mc1.20.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 53321,
+            "MD5": "3cf9192117f63edd27852da17bb9fbbc",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/ItemPhysic_FORGE_v1.8.4_mc1.20.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:justzoom_forge_2.0.0_mc_1.20.1.jar:1.0.0@jar",
+          "name": "justzoom_forge_2.0.0_MC_1.20.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 196560,
+            "MD5": "10fd88f5e5a4faf73df0c41bad8374a3",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/justzoom_forge_2.0.0_MC_1.20.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:kimetsunoyaiba-ver1.3-forge-1.20.1.jar:1.0.0@jar",
+          "name": "KimetsunoYaiba-ver1.3-forge-1.20.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 12661011,
+            "MD5": "3d26e7ad08eaeba39faeb664cb34efc0",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/KimetsunoYaiba-ver1.3-forge-1.20.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:kleiders-custom-renderer-api-7.2.0-1.20.1.jar:1.0.0@jar",
+          "name": "Kleiders Custom Renderer API 7.2.0 1.20.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 43993,
+            "MD5": "a5ad4606f38bffbceea0ee6c38eee8d8",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/Kleiders Custom Renderer API 7.2.0 1.20.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:konkrete_forge_1.8.0_mc_1.20-1.20.1.jar:1.0.0@jar",
+          "name": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 625185,
+            "MD5": "d69107c593e361e1b7b96733250bd098",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:koreanpatch-forge-1.9.6-mc1.20.1.jar:1.0.0@jar",
+          "name": "koreanpatch-forge-1.9.6+mc1.20.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 378658,
+            "MD5": "fc68072473d9a8043d14c7d88a9f92e6",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/koreanpatch-forge-1.9.6+mc1.20.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:libraryferret-forge-1.20.1-4.0.0.jar:1.0.0@jar",
+          "name": "libraryferret-forge-1.20.1-4.0.0.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 190536,
+            "MD5": "68ba05aaf09f053934537af691e959df",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/libraryferret-forge-1.20.1-4.0.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:mousetweaks-forge-mc1.20.1-2.25.1.jar:1.0.0@jar",
+          "name": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 76237,
+            "MD5": "ce4b5bbb9ef6a7905c458ab599ef4cb2",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:oculus-mc1.20.1-1.8.0.jar:1.0.0@jar",
+          "name": "oculus-mc1.20.1-1.8.0.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 2851119,
+            "MD5": "1dd891634ac21591b5a692471f112572",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/oculus-mc1.20.1-1.8.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:parcool-1.20.1-3.3.1.0.jar:1.0.0@jar",
+          "name": "ParCool-1.20.1-3.3.1.0.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 931481,
+            "MD5": "87fe9e714c097ed93404a98fa417a933",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/ParCool-1.20.1-3.3.1.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:pehkui-3.8.2-1.20.1-forge.jar:1.0.0@jar",
+          "name": "Pehkui-3.8.2+1.20.1-forge.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 671605,
+            "MD5": "95bdd5558d34044f54aab0ce292e679b",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/Pehkui-3.8.2+1.20.1-forge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:photon-forge-1.20.1-1.0.7.jar:1.0.0@jar",
+          "name": "photon-forge-1.20.1-1.0.7.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 3529745,
+            "MD5": "cd40173aeb5dfa2386e103b3fc49b8d8",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/photon-forge-1.20.1-1.0.7.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:player-animation-lib-forge-1.0.2-rc1-1.20.jar:1.0.0@jar",
+          "name": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 181437,
+            "MD5": "46f8554181d4d240075ea4919d01fd01",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:playerrevive_forge_v2.0.31_mc1.20.1.jar:1.0.0@jar",
+          "name": "PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 5298162,
+            "MD5": "e07fc42680a0163c99c21cfa9afb9816",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:refm-0.2.13-1.20.1.jar:1.0.0@jar",
+          "name": "refm-0.2.13-1.20.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 2630845,
+            "MD5": "d94a0bd1bb9c1e3706ae65977117924f",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/refm-0.2.13-1.20.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:reforgedplaymod-1.20.1-0.3.1.jar:1.0.0@jar",
+          "name": "reforgedplaymod-1.20.1-0.3.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 16661938,
+            "MD5": "a1fe7a8cba5fec900fb61689fb67fb74",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/reforgedplaymod-1.20.1-0.3.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:sekclib-1.20-1.0.2-universal.jar:1.0.0@jar",
+          "name": "SekCLib-1.20-1.0.2-universal.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 48945,
+            "MD5": "1b04ed76f85e95590487dab638cba44d",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/SekCLib-1.20-1.0.2-universal.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:sitting--2.0.2-forge-1.20_1.20.4.jar:1.0.0@jar",
+          "name": "Sitting+-2.0.2-forge-1.20_1.20.4.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 23422,
+            "MD5": "10b0cb24917d7a114eb619f76d7f2f9b",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/Sitting+-2.0.2-forge-1.20_1.20.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:starlight-1.1.2-forge.1cda73c.jar:1.0.0@jar",
+          "name": "starlight-1.1.2+forge.1cda73c.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 110583,
+            "MD5": "da99a054428fb62342b6767b993c4c8d",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/starlight-1.1.2+forge.1cda73c.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:tctcore-1.6-forge-1.20.1.jar:1.0.0@jar",
+          "name": "tctcore-1.6-forge-1.20.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1583469,
+            "MD5": "2a91d8845dd7e4cdab6e7e8095641ed1",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/tctcore-1.6-forge-1.20.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:tectonic-forge-1.20.1-2.4.1.jar:1.0.0@jar",
+          "name": "tectonic-forge-1.20.1-2.4.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 349125,
+            "MD5": "e4646116efca671837889dd58cad9844",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/tectonic-forge-1.20.1-2.4.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:terralith_1.20.x_v2.5.4.jar:1.0.0@jar",
+          "name": "Terralith_1.20.x_v2.5.4.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 3156901,
+            "MD5": "b143cfd648086c68d7f47a86b8994ee3",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/Terralith_1.20.x_v2.5.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ultramarine-1.20.1-0.5.1.jar:1.0.0@jar",
+          "name": "ultramarine-1.20.1-0.5.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 4818918,
+            "MD5": "a25374f245d5c2dec1cf1e43e5c83c7e",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/ultramarine-1.20.1-0.5.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:weaponsofmiracles-20.1.8.5.6.jar:1.0.0@jar",
+          "name": "WeaponsOfMiracles-20.1.8.5.6.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 14050970,
+            "MD5": "ca2263d0e56281e1c82d28ecab522b35",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/WeaponsOfMiracles-20.1.8.5.6.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:worldedit-mod-7.2.15.jar:1.0.0@jar",
+          "name": "worldedit-mod-7.2.15.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 5825402,
+            "MD5": "bd0e7cff7896348faab92e43300d0639",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/worldedit-mod-7.2.15.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:advancementplaques-1.20.1-forge-1.6.7.jar:1.0.0@jar",
+          "name": "AdvancementPlaques-1.20.1-forge-1.6.7.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 208851,
+            "MD5": "a8c63afeac05f6c356f96df9a8c13dfb",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/AdvancementPlaques-1.20.1-forge-1.6.7.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ai-improvements-1.20-0.5.2.jar:1.0.0@jar",
+          "name": "AI-Improvements-1.20-0.5.2.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 29553,
+            "MD5": "9a6776ce2deab597d198e8755daa56ff",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/AI-Improvements-1.20-0.5.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:atlas-lib-1.20.1-1.1.12.jar:1.0.0@jar",
+          "name": "Atlas Lib-1.20.1-1.1.12.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 124436,
+            "MD5": "b63616d984991ee60d313938143eda3f",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/Atlas Lib-1.20.1-1.1.12.jar"
+          }
         }
       ]
     }
