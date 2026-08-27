@@ -1,5 +1,5 @@
 {
-  "version": "1.0.81",
+  "version": "1.0.82",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -647,10 +647,10 @@
       "id": "kimetsu-1.20.1",
       "name": "kimetsu-1.20.1",
       "description": "",
-      "version": "1.0.1",
-      "address": "",
+      "version": "1.0.2",
+      "address": "182.216.39.35:20015",
       "minecraftVersion": "1.20.1",
-      "autoconnect": false,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.23",
