@@ -1,5 +1,5 @@
 {
-  "version": "1.0.82",
+  "version": "1.0.83",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -645,9 +645,9 @@
     },
     {
       "id": "kimetsu-1.20.1",
-      "name": "kimetsu-1.20.1",
+      "name": "귀멸의 칼날",
       "description": "",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "address": "182.216.39.35:20015",
       "minecraftVersion": "1.20.1",
       "autoconnect": true,
