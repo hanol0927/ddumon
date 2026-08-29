@@ -1,5 +1,5 @@
 {
-  "version": "1.0.88",
+  "version": "1.0.89",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -1767,10 +1767,10 @@
       "id": "island-1.21.1",
       "name": "무인도 탈출기",
       "description": "",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "address": "182.216.39.35:20015",
       "minecraftVersion": "1.21.1",
-      "autoconnect": false,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.neoforged:neoforge:21.1.248:universal",
@@ -2312,6 +2312,678 @@
               }
             }
           ]
+        },
+        {
+          "id": "generated.forgemod:notenoughanimations-neoforge-1.12.4-mc1.21.1.jar:1.0.0@jar",
+          "name": "notenoughanimations-neoforge-1.12.4-mc1.21.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1939625,
+            "MD5": "c03ddc5499304f81f17be246c7e395a3",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:octolib-neoforge-0.6.2-1.21.jar:1.0.0@jar",
+          "name": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 544378,
+            "MD5": "f730e04600b6cd66ddac685362a9c9f3",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/OctoLib-NEOFORGE-0.6.2+1.21.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:player-animation-lib-forge-2.0.4-1.21.1.jar:1.0.0@jar",
+          "name": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 203149,
+            "MD5": "ecb81c9479605db12a77bea774b88406",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/player-animation-lib-forge-2.0.4+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:reeses-sodium-options-neoforge-2.2.3-mc1.21.1.jar:1.0.0@jar",
+          "name": "reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 260876,
+            "MD5": "ffd2290753f3e5e494d04daca1b4eb13",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:resourcefullib-neoforge-1.21-3.0.12.jar:1.0.0@jar",
+          "name": "resourcefullib-neoforge-1.21-3.0.12.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 484332,
+            "MD5": "32da88903167d24bb20febeeb2c79225",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/resourcefullib-neoforge-1.21-3.0.12.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:sodium-extra-neoforge-0.9.3-mc1.21.1.jar:1.0.0@jar",
+          "name": "sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 465013,
+            "MD5": "48540138881ebc454ef3a07c1bd4c250",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/sodium-extra-neoforge-0.9.3+mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:sodium-neoforge-0.8.13-mc1.21.1.jar:1.0.0@jar",
+          "name": "sodium-neoforge-0.8.13+mc1.21.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1292934,
+            "MD5": "c2bc7287841c29e25ce553baae1700a0",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/sodium-neoforge-0.8.13+mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:sophisticatedbackpacks-1.21.1-3.25.78.2107.jar:1.0.0@jar",
+          "name": "sophisticatedbackpacks-1.21.1-3.25.78.2107.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1172245,
+            "MD5": "f26dd6193a2540a293bb70e1bdae415c",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/sophisticatedbackpacks-1.21.1-3.25.78.2107.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:sophisticatedcore-1.21.1-1.4.90.2299.jar:1.0.0@jar",
+          "name": "sophisticatedcore-1.21.1-1.4.90.2299.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1687195,
+            "MD5": "ad27add0e7a4b473d0ef7e7ab6278899",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/sophisticatedcore-1.21.1-1.4.90.2299.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:sound-physics-remastered-neoforge-1.21.1-1.5.1.jar:1.0.0@jar",
+          "name": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 202454,
+            "MD5": "fe3cafa3f67c86272ee1d0cdf96fb2ac",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:trashslot-neoforge-1.21.1-21.1.11.jar:1.0.0@jar",
+          "name": "trashslot-neoforge-1.21.1-21.1.11.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 77535,
+            "MD5": "3de363a7dbc6eadca2ce6fd40531392b",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/trashslot-neoforge-1.21.1-21.1.11.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:watut-neoforge-1.21.0-1.2.7.jar:1.0.0@jar",
+          "name": "watut-neoforge-1.21.0-1.2.7.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 432269,
+            "MD5": "31cfc24b7997dbf6ed84cd844de37d7d",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/watut-neoforge-1.21.0-1.2.7.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:waystones-neoforge-1.21.1-21.1.41.jar:1.0.0@jar",
+          "name": "waystones-neoforge-1.21.1-21.1.41.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1217415,
+            "MD5": "7ce116cc180af277241ff51983a99128",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/waystones-neoforge-1.21.1-21.1.41.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:worldeditcui-neoforge-1.21.1-02-snapshot.jar:1.0.0@jar",
+          "name": "WorldEditCUI-NeoForge-1.21.1+02-SNAPSHOT.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 150610,
+            "MD5": "d56e8df72efff91cf8b03deb4cbebbec",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/WorldEditCUI-NeoForge-1.21.1+02-SNAPSHOT.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:worldedit-mod-7.3.8.jar:1.0.0@jar",
+          "name": "worldedit-mod-7.3.8.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 6222854,
+            "MD5": "f5d6f09ca5c4b1958780d01a099b779d",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/worldedit-mod-7.3.8.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:appleskin-neoforge-mc1.21-3.0.9.jar:1.0.0@jar",
+          "name": "appleskin-neoforge-mc1.21-3.0.9.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 75804,
+            "MD5": "db5fe7619d502cf5b9bc972a955cd3bc",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/appleskin-neoforge-mc1.21-3.0.9.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:architectury-13.0.11-neoforge.jar:1.0.0@jar",
+          "name": "architectury-13.0.11-neoforge.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 584734,
+            "MD5": "aefbea361809755c331126bcff6e6d3e",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/architectury-13.0.11-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:artifacts-neoforge-13.2.3.jar:1.0.0@jar",
+          "name": "artifacts-neoforge-13.2.3.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1086882,
+            "MD5": "1b48235848e4634e60068c3a902c53df",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/artifacts-neoforge-13.2.3.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:balm-neoforge-1.21.1-21.0.65.jar:1.0.0@jar",
+          "name": "balm-neoforge-1.21.1-21.0.65.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 783793,
+            "MD5": "ffd35f57254160816b17db7e66f196a8",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/balm-neoforge-1.21.1-21.0.65.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:common-networking-neoforge-1.0.21-1.21.1.jar:1.0.0@jar",
+          "name": "common-networking-neoforge-1.0.21-1.21.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 26016,
+            "MD5": "5ee03cea153e841ca0003311f46b3f07",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/common-networking-neoforge-1.0.21-1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:connector-2.0.0-beta.17-1.21.1-full.jar:1.0.0@jar",
+          "name": "connector-2.0.0-beta.17+1.21.1-full.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 4573244,
+            "MD5": "b3e451facbf76338a06d765e7d1c7e9c",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/connector-2.0.0-beta.17+1.21.1-full.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:coroutil-neoforge-1.21.0-1.3.9.jar:1.0.0@jar",
+          "name": "coroutil-neoforge-1.21.0-1.3.9.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 65716,
+            "MD5": "741721a51d325dfccf1b74f0a792bd88",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/coroutil-neoforge-1.21.0-1.3.9.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:cullleaves-neoforge-4.1.1-1.21.1.jar:1.0.0@jar",
+          "name": "cullleaves-neoforge-4.1.1+1.21.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 94735,
+            "MD5": "2b0b25cd86a1bb1179862aa4088677aa",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/cullleaves-neoforge-4.1.1+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:curios-neoforge-9.5.1-1.21.1.jar:1.0.0@jar",
+          "name": "curios-neoforge-9.5.1+1.21.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 410690,
+            "MD5": "e8f0a3574264bb202c153b90293dc84c",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/curios-neoforge-9.5.1+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:dynamic-fps-3.11.4-minecraft-1.21.0-neoforge.jar:1.0.0@jar",
+          "name": "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 220193,
+            "MD5": "e5ef3e5d37eedad79cf44897229fd8f2",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:entity_model_features-3.2.4-1.21-neoforge.jar:1.0.0@jar",
+          "name": "entity_model_features-3.2.4-1.21-neoforge.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 567827,
+            "MD5": "b7f1c8a4f16281fa69b9e09e8154544b",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/entity_model_features-3.2.4-1.21-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:entity_texture_features_1.21-neoforge-7.1.jar:1.0.0@jar",
+          "name": "entity_texture_features_1.21-neoforge-7.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 752334,
+            "MD5": "07c98cc3e76f514eee3adee43d05dae9",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/entity_texture_features_1.21-neoforge-7.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:entityculling-neoforge-1.10.5-mc1.21.1.jar:1.0.0@jar",
+          "name": "entityculling-neoforge-1.10.5-mc1.21.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1585287,
+            "MD5": "efb6e5638cd09578c0aaaa396c9bfa84",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/entityculling-neoforge-1.10.5-mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:fdbosses-3.2-1.21.1.jar:1.0.0@jar",
+          "name": "fdbosses-3.2-1.21.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 25979434,
+            "MD5": "7ba83ba4c67a055cf97ae00584787875",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/fdbosses-3.2-1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:fdlib-1.0.9-1.21.1.jar:1.0.0@jar",
+          "name": "fdlib-1.0.9-1.21.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 973335,
+            "MD5": "f854cc69a7c6a240f5326c9fefa583c5",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/fdlib-1.0.9-1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ferritecore-7.0.3-neoforge.jar:1.0.0@jar",
+          "name": "ferritecore-7.0.3-neoforge.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 121559,
+            "MD5": "e0374dac41d6c641903f9e241911e1d3",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/ferritecore-7.0.3-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:forgified-fabric-api-0.116.15-2.3.5-1.21.1.jar:1.0.0@jar",
+          "name": "forgified-fabric-api-0.116.15+2.3.5+1.21.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 5613421,
+            "MD5": "52c80dfbeee55cbb7ecd244710088dd8",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/forgified-fabric-api-0.116.15+2.3.5+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:fzzy_config-0.7.6-1.21-neoforge.jar:1.0.0@jar",
+          "name": "fzzy_config-0.7.6+1.21+neoforge.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 2369895,
+            "MD5": "cd0823556e6d24046bd0f4ba74cd4981",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/fzzy_config-0.7.6+1.21+neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:highlighter-1.21-neoforge-1.1.11.jar:1.0.0@jar",
+          "name": "Highlighter-1.21-neoforge-1.1.11.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 30417,
+            "MD5": "9db706e822bdfd83a36c5aeb1c21fd74",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/Highlighter-1.21-neoforge-1.1.11.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:highlight-neoforge-1.21.9-3.9.0.jar:1.0.0@jar",
+          "name": "highlight-neoforge-1.21.9-3.9.0.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 471520,
+            "MD5": "3ccff75990ca7546fe51e5ab133b575a",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/highlight-neoforge-1.21.9-3.9.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:iceberg-1.21.1-neoforge-1.3.2.jar:1.0.0@jar",
+          "name": "Iceberg-1.21.1-neoforge-1.3.2.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 213853,
+            "MD5": "68473a4ca9a827669c13d3855c8dc0e2",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/Iceberg-1.21.1-neoforge-1.3.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:immersiveui-neoforge-0.3.3-1.21.1.jar:1.0.0@jar",
+          "name": "ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 217081,
+            "MD5": "0ad2897335db36d155d6b2d4dfaf02e9",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:iris-neoforge-1.8.14-beta.1-mc1.21.1.jar:1.0.0@jar",
+          "name": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 2540723,
+            "MD5": "6b68276a6718656ec476cfac69dfe013",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:jei-1.21.1-neoforge-19.50.0.414.jar:1.0.0@jar",
+          "name": "jei-1.21.1-neoforge-19.50.0.414.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1787629,
+            "MD5": "3ec018b5fe2bf729387ac96960fba332",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/jei-1.21.1-neoforge-19.50.0.414.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:journeymap-neoforge-1.21.1-6.0.6.jar:1.0.0@jar",
+          "name": "journeymap-neoforge-1.21.1-6.0.6.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 4299627,
+            "MD5": "4292b5e88f072636f2172f0e42451356",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/journeymap-neoforge-1.21.1-6.0.6.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:koreanpatch-neoforge-1.9.6-mc1.21.jar:1.0.0@jar",
+          "name": "koreanpatch-neoforge-1.9.6+mc1.21.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 373120,
+            "MD5": "873a272de656e908ec77878f3dd0bcb5",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/koreanpatch-neoforge-1.9.6+mc1.21.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:kotlinforforge-5.12.0-all.jar:1.0.0@jar",
+          "name": "kotlinforforge-5.12.0-all.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 7279276,
+            "MD5": "93db4ba2044a6667d7d1e3f592d63dbd",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/kotlinforforge-5.12.0-all.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:lithium-neoforge-0.15.4-mc1.21.1.jar:1.0.0@jar",
+          "name": "lithium-neoforge-0.15.4+mc1.21.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 774220,
+            "MD5": "969860e6a6ebe4dc2e2154b56f05483e",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/lithium-neoforge-0.15.4+mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:loot-beams-refork-neoforge-1.21.1-3.4.7.jar:1.0.0@jar",
+          "name": "Loot Beams Refork-neoforge-1.21.1-3.4.7.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 522358,
+            "MD5": "59f79a1b1a6db2f00635ed904c9c51fc",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/Loot Beams Refork-neoforge-1.21.1-3.4.7.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:midnightlib-neoforge-1.9.3-1.21.1.jar:1.0.0@jar",
+          "name": "midnightlib-neoforge-1.9.3+1.21.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 61217,
+            "MD5": "e2ecfd48d9b6670ee33b18b21fdfea46",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/midnightlib-neoforge-1.9.3+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:modernfix-neoforge-5.27.20-mc1.21.1.jar:1.0.0@jar",
+          "name": "modernfix-neoforge-5.27.20+mc1.21.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 599474,
+            "MD5": "b488341cd5172f6bb16b5ec6d0856c4d",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/modernfix-neoforge-5.27.20+mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:mousetweaks-neoforge-mc1.21-2.26.1.jar:1.0.0@jar",
+          "name": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 73938,
+            "MD5": "4ab6e808a59fdebecfbc92438b85b470",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:nirvana-lib-neoforge-1.21.1-2.2.0.jar:1.0.0@jar",
+          "name": "Nirvana Lib-neoforge-1.21.1-2.2.0.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1266810,
+            "MD5": "3e167de14eb7c885041fcd4ebfaa8927",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/Nirvana Lib-neoforge-1.21.1-2.2.0.jar"
+          }
         }
       ],
       "onceFiles": [
@@ -2416,6 +3088,24 @@
           "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/resourcepacks/VISIBLE ORES PLUS v1.18.0.zip",
           "size": 1338346,
           "MD5": "55e57c0ebfea283dc2111caad84dda48"
+        },
+        {
+          "path": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+          "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+          "size": 1791406,
+          "MD5": "73eac5d017a268ea8175c2025c2863ad"
+        },
+        {
+          "path": "shaderpacks/BSL_v10.1.1.zip",
+          "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/shaderpacks/BSL_v10.1.1.zip",
+          "size": 1125052,
+          "MD5": "67b0a2d855e91f3578af7a4336e537f0"
+        },
+        {
+          "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip",
+          "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/shaderpacks/ComplementaryUnbound_r5.8.1.zip",
+          "size": 546928,
+          "MD5": "0a3553109dbe689a9f76d1aedc8f50c6"
         }
       ]
     }
