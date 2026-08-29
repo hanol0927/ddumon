@@ -1,5 +1,5 @@
 {
-  "version": "1.0.89",
+  "version": "1.0.90",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -1767,7 +1767,7 @@
       "id": "island-1.21.1",
       "name": "무인도 탈출기",
       "description": "",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "address": "182.216.39.35:20015",
       "minecraftVersion": "1.21.1",
       "autoconnect": true,
@@ -2412,34 +2412,6 @@
           }
         },
         {
-          "id": "generated.forgemod:sophisticatedbackpacks-1.21.1-3.25.78.2107.jar:1.0.0@jar",
-          "name": "sophisticatedbackpacks-1.21.1-3.25.78.2107.jar",
-          "type": "ForgeMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
-          "artifact": {
-            "size": 1172245,
-            "MD5": "f26dd6193a2540a293bb70e1bdae415c",
-            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/sophisticatedbackpacks-1.21.1-3.25.78.2107.jar"
-          }
-        },
-        {
-          "id": "generated.forgemod:sophisticatedbackpacks-1.21.1-3.25.78.2107.jar:1.0.0@jar",
-          "name": "sophisticatedbackpacks-1.21.1-3.25.78.2107.jar",
-          "type": "ForgeMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
-          "artifact": {
-            "size": 1172245,
-            "MD5": "f26dd6193a2540a293bb70e1bdae415c",
-            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/sophisticatedbackpacks-1.21.1-3.25.78.2107.jar"
-          }
-        },
-        {
           "id": "generated.forgemod:physics-mod-pro-v185-neoforge-mc-1.21.1.jar:1.0.0@jar",
           "name": "physics-mod-pro-v185-neoforge-mc-1.21.1.jar",
           "type": "ForgeMod",
@@ -2997,6 +2969,34 @@
             "size": 1266810,
             "MD5": "3e167de14eb7c885041fcd4ebfaa8927",
             "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/Nirvana Lib-neoforge-1.21.1-2.2.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:sophisticatedcore-1.21.1-1.4.90.2299.jar:1.0.0@jar",
+          "name": "sophisticatedcore-1.21.1-1.4.90.2299.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1687195,
+            "MD5": "ad27add0e7a4b473d0ef7e7ab6278899",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/sophisticatedcore-1.21.1-1.4.90.2299.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:sophisticatedbackpacks-1.21.1-3.25.78.2107.jar:1.0.0@jar",
+          "name": "sophisticatedbackpacks-1.21.1-3.25.78.2107.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1172245,
+            "MD5": "f26dd6193a2540a293bb70e1bdae415c",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/sophisticatedbackpacks-1.21.1-3.25.78.2107.jar"
           }
         }
       ],
