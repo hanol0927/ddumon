@@ -1706,6 +1706,20 @@
           }
         },
         {
+          "id": "generated.forgemod:physics-mod-pro-v185-neoforge-mc-1.21.1.jar:1.0.0@jar",
+          "name": "physics-mod-pro-v185-neoforge-mc-1.21.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 139977718,
+            "MD5": "a54407335a1fda6d926d67ead7367707",
+            "url": "https://www.dropbox.com/scl/fi/qsgqyfiq0r937ov23qvgw/physics-mod-pro-v185-neoforge-mc-1.21.1.jar?rlkey=buo4il34qlw5sppce7e0x6jwi&st=jfoaf6l3&dl=1"
+          }
+        },
+        {
           "id": "generated.forgemod:advancementplaques-1.20.1-forge-1.6.7.jar:1.0.0@jar",
           "name": "AdvancementPlaques-1.20.1-forge-1.6.7.jar",
           "type": "ForgeMod",
