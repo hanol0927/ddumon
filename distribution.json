@@ -1,5 +1,5 @@
 {
-  "version": "1.0.91",
+  "version": "1.0.92",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -1769,7 +1769,7 @@
       "id": "island-1.21.1",
       "name": "무인도 탈출기",
       "description": "",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "address": "182.216.39.35:20015",
       "minecraftVersion": "1.21.1",
       "autoconnect": true,
@@ -3000,6 +3000,97 @@
             "MD5": "f26dd6193a2540a293bb70e1bdae415c",
             "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/sophisticatedbackpacks-1.21.1-3.25.78.2107.jar"
           }
+        },
+        {
+          "id": "generated.forgemod:distanthorizons-3.2.0-b-1.21.1-fabric-neoforge.jar:1.0.0@jar",
+          "name": "DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 30207268,
+            "MD5": "8925d0f3c3be448e895dcab6a64de0e6",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar"
+          }
+        },
+        {
+          "id": "physics_animations_client_config.json",
+          "name": "physics_animations_client_config.json",
+          "type": "File",
+          "artifact": {
+            "size": 2704,
+            "MD5": "da80c9736151cc129df4049966e21c72",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/config/physicsmod/physics_animations_client_config.json",
+            "path": "config/physicsmod/physics_animations_client_config.json"
+          }
+        },
+        {
+          "id": "physics_blocks_client_config.json",
+          "name": "physics_blocks_client_config.json",
+          "type": "File",
+          "artifact": {
+            "size": 31,
+            "MD5": "58f41fe7d6b122aab3b3c238b6474834",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/config/physicsmod/physics_blocks_client_config.json",
+            "path": "config/physicsmod/physics_blocks_client_config.json"
+          }
+        },
+        {
+          "id": "physics_client_config.json",
+          "name": "physics_client_config.json",
+          "type": "File",
+          "artifact": {
+            "size": 3924,
+            "MD5": "3fa40ceae369e6a3f04f3acd3e13035c",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/config/physicsmod/physics_client_config.json",
+            "path": "config/physicsmod/physics_client_config.json"
+          }
+        },
+        {
+          "id": "physics_cloth_config.json",
+          "name": "physics_cloth_config.json",
+          "type": "File",
+          "artifact": {
+            "size": 49,
+            "MD5": "e0cad14fbab6cb9e3a83a08465339095",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/config/physicsmod/physics_cloth_config.json",
+            "path": "config/physicsmod/physics_cloth_config.json"
+          }
+        },
+        {
+          "id": "physics_mobs_client_config.json",
+          "name": "physics_mobs_client_config.json",
+          "type": "File",
+          "artifact": {
+            "size": 26,
+            "MD5": "cf93170668eb9b0c5e9c2d599165f42e",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/config/physicsmod/physics_mobs_client_config.json",
+            "path": "config/physicsmod/physics_mobs_client_config.json"
+          }
+        },
+        {
+          "id": "physics_server_config.json",
+          "name": "physics_server_config.json",
+          "type": "File",
+          "artifact": {
+            "size": 98,
+            "MD5": "96e053a47f227429f727b1ac617c7f96",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/config/physicsmod/physics_server_config.json",
+            "path": "config/physicsmod/physics_server_config.json"
+          }
+        },
+        {
+          "id": "physics_vines_client_config.json",
+          "name": "physics_vines_client_config.json",
+          "type": "File",
+          "artifact": {
+            "size": 35,
+            "MD5": "9cc0c998cbaa36de622d76b343c2ab56",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/config/physicsmod/physics_vines_client_config.json",
+            "path": "config/physicsmod/physics_vines_client_config.json"
+          }
         }
       ],
       "onceFiles": [
@@ -3123,7 +3214,9 @@
           "size": 546928,
           "MD5": "0a3553109dbe689a9f76d1aedc8f50c6"
         }
-      ]
+      ],
+      "icon": "https://hanol0927.github.io/island/servers/island-1.21.1/icon.png",
+      "background": "https://hanol0927.github.io/island/servers/island-1.21.1/background.png"
     }
   ]
 }
