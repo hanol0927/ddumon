@@ -1,5 +1,5 @@
 {
-  "version": "1.0.95",
+  "version": "1.0.96",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -1769,7 +1769,7 @@
       "id": "island-1.21.1",
       "name": "무인도 탈출기",
       "description": "",
-      "version": "1.0.9",
+      "version": "1.0.10",
       "address": "182.216.39.35:20015",
       "minecraftVersion": "1.21.1",
       "autoconnect": true,
@@ -3182,7 +3182,9 @@
           "size": 154,
           "MD5": "b40d83648086b7103bae30f9139aaf4c"
         }
-      ]
+      ],
+      "icon": "https://hanol0927.github.io/island/servers/island-1.21.1/icon.png",
+      "background": "https://hanol0927.github.io/island/servers/island-1.21.1/background.png"
     }
   ]
 }
