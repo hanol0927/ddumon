@@ -1,5 +1,5 @@
 {
-  "version": "1.0.92",
+  "version": "1.0.93",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -1769,7 +1769,7 @@
       "id": "island-1.21.1",
       "name": "무인도 탈출기",
       "description": "",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "address": "182.216.39.35:20015",
       "minecraftVersion": "1.21.1",
       "autoconnect": true,
@@ -2694,20 +2694,6 @@
           }
         },
         {
-          "id": "generated.forgemod:fdbosses-3.2-1.21.1.jar:1.0.0@jar",
-          "name": "fdbosses-3.2-1.21.1.jar",
-          "type": "ForgeMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
-          "artifact": {
-            "size": 25979434,
-            "MD5": "7ba83ba4c67a055cf97ae00584787875",
-            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/fdbosses-3.2-1.21.1.jar"
-          }
-        },
-        {
           "id": "generated.forgemod:fdlib-1.0.9-1.21.1.jar:1.0.0@jar",
           "name": "fdlib-1.0.9-1.21.1.jar",
           "type": "ForgeMod",
@@ -3002,39 +2988,17 @@
           }
         },
         {
-          "id": "generated.forgemod:distanthorizons-3.2.0-b-1.21.1-fabric-neoforge.jar:1.0.0@jar",
-          "name": "DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
+          "id": "generated.forgemod:fdbosses-3.2-1.21.1.jar-1.0.0.zip:1.0.0@jar",
+          "name": "fdbosses-3.2-1.21.1.jar-1.0.0.zip",
           "type": "ForgeMod",
           "required": {
             "value": true,
             "def": true
           },
           "artifact": {
-            "size": 30207268,
-            "MD5": "8925d0f3c3be448e895dcab6a64de0e6",
-            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar"
-          }
-        },
-        {
-          "id": "physics_animations_client_config.json",
-          "name": "physics_animations_client_config.json",
-          "type": "File",
-          "artifact": {
-            "size": 2704,
-            "MD5": "da80c9736151cc129df4049966e21c72",
-            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/config/physicsmod/physics_animations_client_config.json",
-            "path": "config/physicsmod/physics_animations_client_config.json"
-          }
-        },
-        {
-          "id": "physics_blocks_client_config.json",
-          "name": "physics_blocks_client_config.json",
-          "type": "File",
-          "artifact": {
-            "size": 31,
-            "MD5": "58f41fe7d6b122aab3b3c238b6474834",
-            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/config/physicsmod/physics_blocks_client_config.json",
-            "path": "config/physicsmod/physics_blocks_client_config.json"
+            "size": 26029196,
+            "MD5": "168d1aef669ce5abd91dbdfb7bf50807",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/fdbosses-3.2-1.21.1.jar-1.0.0.zip"
           }
         },
         {
@@ -3042,54 +3006,10 @@
           "name": "physics_client_config.json",
           "type": "File",
           "artifact": {
-            "size": 3924,
-            "MD5": "3fa40ceae369e6a3f04f3acd3e13035c",
+            "size": 3923,
+            "MD5": "64ca29da2c29938ffb2ad63892aff836",
             "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/config/physicsmod/physics_client_config.json",
             "path": "config/physicsmod/physics_client_config.json"
-          }
-        },
-        {
-          "id": "physics_cloth_config.json",
-          "name": "physics_cloth_config.json",
-          "type": "File",
-          "artifact": {
-            "size": 49,
-            "MD5": "e0cad14fbab6cb9e3a83a08465339095",
-            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/config/physicsmod/physics_cloth_config.json",
-            "path": "config/physicsmod/physics_cloth_config.json"
-          }
-        },
-        {
-          "id": "physics_mobs_client_config.json",
-          "name": "physics_mobs_client_config.json",
-          "type": "File",
-          "artifact": {
-            "size": 26,
-            "MD5": "cf93170668eb9b0c5e9c2d599165f42e",
-            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/config/physicsmod/physics_mobs_client_config.json",
-            "path": "config/physicsmod/physics_mobs_client_config.json"
-          }
-        },
-        {
-          "id": "physics_server_config.json",
-          "name": "physics_server_config.json",
-          "type": "File",
-          "artifact": {
-            "size": 98,
-            "MD5": "96e053a47f227429f727b1ac617c7f96",
-            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/config/physicsmod/physics_server_config.json",
-            "path": "config/physicsmod/physics_server_config.json"
-          }
-        },
-        {
-          "id": "physics_vines_client_config.json",
-          "name": "physics_vines_client_config.json",
-          "type": "File",
-          "artifact": {
-            "size": 35,
-            "MD5": "9cc0c998cbaa36de622d76b343c2ab56",
-            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/config/physicsmod/physics_vines_client_config.json",
-            "path": "config/physicsmod/physics_vines_client_config.json"
           }
         }
       ],
@@ -3213,10 +3133,56 @@
           "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/shaderpacks/ComplementaryUnbound_r5.8.1.zip",
           "size": 546928,
           "MD5": "0a3553109dbe689a9f76d1aedc8f50c6"
+        },
+        {
+          "path": "journeymap/config/6.0/journeymap.core.config",
+          "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/journeymap/config/6.0/journeymap.core.config",
+          "size": 2804,
+          "MD5": "4e9940dbaca4404154fd2e5013442c84"
+        },
+        {
+          "path": "journeymap/config/6.0/jjourneymap.fullmap.config",
+          "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/journeymap/config/6.0/jjourneymap.fullmap.config",
+          "size": 1320,
+          "MD5": "3572ce6aa23477f0fa246209c5a77b67"
+        },
+        {
+          "path": "journeymap/config/6.0/jjourneymap.minimap.config",
+          "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/journeymap/config/6.0/jjourneymap.minimap.config",
+          "size": 2323,
+          "MD5": "299fa84d6754404bec3c50bfffd227b6"
+        },
+        {
+          "path": "journeymap/config/6.0/jjourneymap.minimap2.config",
+          "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/journeymap/config/6.0/jjourneymap.minimap2.config",
+          "size": 2337,
+          "MD5": "c6dd5f265ce01c1edba89f75e91ca5ec"
+        },
+        {
+          "path": "journeymap/config/6.0/jjourneymap.rendering.config",
+          "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/journeymap/config/6.0/jjourneymap.rendering.config",
+          "size": 663,
+          "MD5": "a46a55ceacc9e84371339c3f7932a49e"
+        },
+        {
+          "path": "journeymap/config/6.0/jjourneymap.topo.config",
+          "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/journeymap/config/6.0/jjourneymap.topo.config",
+          "size": 963,
+          "MD5": "1912b450089f4bbf1db126dcb4ed80ce"
+        },
+        {
+          "path": "journeymap/config/6.0/jjourneymap.waypoint.config",
+          "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/journeymap/config/6.0/jjourneymap.waypoint.config",
+          "size": 1425,
+          "MD5": "10b46392e24e43ce9b789b136877be03"
+        },
+        {
+          "path": "journeymap/config/6.0/jjourneymap.webmap.config",
+          "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/journeymap/config/6.0/jjourneymap.webmap.config",
+          "size": 154,
+          "MD5": "b40d83648086b7103bae30f9139aaf4c"
         }
-      ],
-      "icon": "https://hanol0927.github.io/island/servers/island-1.21.1/icon.png",
-      "background": "https://hanol0927.github.io/island/servers/island-1.21.1/background.png"
+      ]
     }
   ]
 }
