@@ -1,5 +1,5 @@
 {
-  "version": "1.0.93",
+  "version": "1.0.94",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -1769,7 +1769,7 @@
       "id": "island-1.21.1",
       "name": "무인도 탈출기",
       "description": "",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "address": "182.216.39.35:20015",
       "minecraftVersion": "1.21.1",
       "autoconnect": true,
@@ -2988,20 +2988,6 @@
           }
         },
         {
-          "id": "generated.forgemod:fdbosses-3.2-1.21.1.jar-1.0.0.zip:1.0.0@jar",
-          "name": "fdbosses-3.2-1.21.1.jar-1.0.0.zip",
-          "type": "ForgeMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
-          "artifact": {
-            "size": 26029196,
-            "MD5": "168d1aef669ce5abd91dbdfb7bf50807",
-            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/fdbosses-3.2-1.21.1.jar-1.0.0.zip"
-          }
-        },
-        {
           "id": "physics_client_config.json",
           "name": "physics_client_config.json",
           "type": "File",
@@ -3010,6 +2996,20 @@
             "MD5": "64ca29da2c29938ffb2ad63892aff836",
             "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/config/physicsmod/physics_client_config.json",
             "path": "config/physicsmod/physics_client_config.json"
+          }
+        },
+        {
+          "id": "generated.forgemod:fdbosses-3.2-1.21.1.jar-1.0.0.jar:1.0.0@jar",
+          "name": "fdbosses-3.2-1.21.1.jar-1.0.0.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 26029196,
+            "MD5": "168d1aef669ce5abd91dbdfb7bf50807",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/fdbosses-3.2-1.21.1.jar-1.0.0.jar"
           }
         }
       ],
