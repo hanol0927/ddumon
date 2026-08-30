@@ -1,5 +1,5 @@
 {
-  "version": "1.0.98",
+  "version": "1.0.99",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -1769,7 +1769,7 @@
       "id": "island-1.21.1",
       "name": "무인도 탈출기",
       "description": "",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "address": "182.216.39.35:20016",
       "minecraftVersion": "1.21.1",
       "autoconnect": true,
@@ -2999,6 +2999,87 @@
             "size": 26029196,
             "MD5": "168d1aef669ce5abd91dbdfb7bf50807",
             "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/fdbosses-3.2-1.21.1.jar"
+          }
+        },
+        {
+          "id": "physics_client_config.json",
+          "name": "physics_client_config.json",
+          "type": "File",
+          "artifact": {
+            "size": 3923,
+            "MD5": "64ca29da2c29938ffb2ad63892aff836",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/config/physicsmod/physics_client_config.json",
+            "path": "config/physicsmod/physics_client_config.json"
+          }
+        },
+        {
+          "id": "generated.forgemod:justpotionrings-neoforge-1.21.1-v2.0.jar:1.0.0@jar",
+          "name": "JustPotionRings-NEOFORGE-1.21.1-v2.0.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 91074,
+            "MD5": "a11458f92413c46ca3f0399b3a0d59ae",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/JustPotionRings-NEOFORGE-1.21.1-v2.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:bountifulbaubles-1.2.5.jar:1.0.0@jar",
+          "name": "bountifulbaubles-1.2.5.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 636727,
+            "MD5": "8341f395ff621a610f8d9db7b117729f",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/bountifulbaubles-1.2.5.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:jamlib-neoforge-1.3.6-1.21.1.jar:1.0.0@jar",
+          "name": "jamlib-neoforge-1.3.6+1.21.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 188553,
+            "MD5": "87ad4d47e5c266e20e2076ad5933d0cc",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/jamlib-neoforge-1.3.6+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:distanthorizons-3.2.0-b-1.21.1-fabric-neoforge.jar:1.0.0@jar",
+          "name": "DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 30207268,
+            "MD5": "8925d0f3c3be448e895dcab6a64de0e6",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:rightclickharvest-neoforge-4.6.1-1.21.1.jar:1.0.0@jar",
+          "name": "rightclickharvest-neoforge-4.6.1+1.21.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 287634,
+            "MD5": "b1188249c44aed7f666ff89ab591e9a4",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/rightclickharvest-neoforge-4.6.1+1.21.1.jar"
           }
         },
         {
