@@ -1,5 +1,5 @@
 {
-  "version": "1.0.99",
+  "version": "1.0.100",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -647,7 +647,7 @@
       "id": "kimetsu-1.20.1",
       "name": "귀멸의 칼날",
       "description": "픽셀동 귀멸의 칼날 생존기",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "address": "182.216.39.35:20015",
       "minecraftVersion": "1.20.1",
       "autoconnect": true,
@@ -1398,20 +1398,6 @@
           }
         },
         {
-          "id": "generated.forgemod:kimetsunoyaiba-ver1.3-forge-1.20.1.jar:1.0.0@jar",
-          "name": "KimetsunoYaiba-ver1.3-forge-1.20.1.jar",
-          "type": "ForgeMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
-          "artifact": {
-            "size": 12661011,
-            "MD5": "3d26e7ad08eaeba39faeb664cb34efc0",
-            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/KimetsunoYaiba-ver1.3-forge-1.20.1.jar"
-          }
-        },
-        {
           "id": "generated.forgemod:kleiders-custom-renderer-api-7.2.0-1.20.1.jar:1.0.0@jar",
           "name": "Kleiders Custom Renderer API 7.2.0 1.20.1.jar",
           "type": "ForgeMod",
@@ -1759,6 +1745,20 @@
             "size": 124436,
             "MD5": "b63616d984991ee60d313938143eda3f",
             "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/Atlas Lib-1.20.1-1.1.12.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:kimetsunoyaiba-ver1.3-forge-1.20.1.jar:1.0.0@jar",
+          "name": "kimetsunoyaiba-ver1.3-forge-1.20.1.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 12771544,
+            "MD5": "02c8980dc7964300dc9ddd2bdf817acf",
+            "url": "https://hanol0927.github.io/kime/servers/kimetsu-1.20.1/mods/kimetsunoyaiba-ver1.3-forge-1.20.1.jar"
           }
         }
       ],
