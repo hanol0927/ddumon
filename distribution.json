@@ -1,5 +1,5 @@
 {
-  "version": "1.0.101",
+  "version": "1.0.102",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -1773,7 +1773,7 @@
       "id": "island-1.21.1",
       "name": "무인도 탈출기",
       "description": "",
-      "version": "1.0.13",
+      "version": "1.0.14",
       "address": "182.216.39.35:20016",
       "minecraftVersion": "1.21.1",
       "autoconnect": true,
@@ -3095,6 +3095,20 @@
             "MD5": "64ca29da2c29938ffb2ad63892aff836",
             "url": "https://hanol0927.github.io/island/servers/island-1.21.1/files/config/physicsmod/physics_client_config.json",
             "path": "config/physicsmod/physics_client_config.json"
+          }
+        },
+        {
+          "id": "generated.forgemod:hanship-mod-1.0.0.jar:1.0.0@jar",
+          "name": "hanship-mod-1.0.0.jar",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 5724590,
+            "MD5": "89270ca2de18cc49549da9e4ca8bd05f",
+            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/hanship-mod-1.0.0.jar"
           }
         }
       ],
