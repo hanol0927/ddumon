@@ -1,5 +1,5 @@
 {
-  "version": "1.0.104",
+  "version": "1.0.105",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -1773,7 +1773,7 @@
       "id": "island-1.21.1",
       "name": "무인도 탈출기",
       "description": "기류토하",
-      "version": "1.0.16",
+      "version": "1.0.17",
       "address": "182.216.39.35:20016",
       "minecraftVersion": "1.21.1",
       "autoconnect": true,
@@ -3056,20 +3056,6 @@
             "size": 188553,
             "MD5": "87ad4d47e5c266e20e2076ad5933d0cc",
             "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/jamlib-neoforge-1.3.6+1.21.1.jar"
-          }
-        },
-        {
-          "id": "generated.forgemod:distanthorizons-3.2.0-b-1.21.1-fabric-neoforge.jar:1.0.0@jar",
-          "name": "DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
-          "type": "ForgeMod",
-          "required": {
-            "value": true,
-            "def": true
-          },
-          "artifact": {
-            "size": 30207268,
-            "MD5": "8925d0f3c3be448e895dcab6a64de0e6",
-            "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar"
           }
         },
         {
