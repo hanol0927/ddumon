@@ -1,5 +1,5 @@
 {
-  "version": "1.0.102",
+  "version": "1.0.103",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -1772,8 +1772,8 @@
     {
       "id": "island-1.21.1",
       "name": "무인도 탈출기",
-      "description": "",
-      "version": "1.0.14",
+      "description": "기류토하",
+      "version": "1.0.15",
       "address": "182.216.39.35:20016",
       "minecraftVersion": "1.21.1",
       "autoconnect": true,
@@ -3106,8 +3106,8 @@
             "def": true
           },
           "artifact": {
-            "size": 5724590,
-            "MD5": "89270ca2de18cc49549da9e4ca8bd05f",
+            "size": 5736608,
+            "MD5": "63f0f9b66f6ce098ab88feac4101f9fb",
             "url": "https://hanol0927.github.io/island/servers/island-1.21.1/mods/hanship-mod-1.0.0.jar"
           }
         }
